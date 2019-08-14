@@ -61,6 +61,49 @@ Owner, Principal Software Engineer
 - Developed and provided support for a wide variety of websites; michbusiness.org, corpmagazine.com, michbusiness.com, 101bestandbrightest.com, www.ardentcause.com, gtagroup.net, rtdtool.com, suite104.com, matsci.com, www.prismplastics.com, towar.com, bluebooklocal.com and many more.  Developed websites with Dot Net Nuke CMS platform, built many custom Dot Net Nuke modules with C#, VB.NET, optimized website and database performance.  Developed websites with WordPress, built many PHP plugins for a wide variety of custom functionality utilizing PHP, MySQL, XML, XSLT, jQuery and other technologies.  Performed hands on Search Engine Optimization (SEO), Google Ads management (PPC), Google Analytics analysis and ranking improvement for a number of sites.
 - Developed mobile applications for iPhone/iPad and Android platforms (title is “MBPA Health Care Reform”), available in app stores for download.  The application is a content delivery framework application build using ApplicationCraft system for mobile development, utilizing jQuery mobile, Javascript, C# based web services, SQL Server 2008, IIS 7.5 and PhoneGap for iOS build construction.  These applications incorporate fluid design, work consistently on most of the current mobile devices (phones and tablets) and their primary purpose is to deliver organization specific content such as articles, news and related information via secure web services queried by the native application installed on the mobile devices.
 
+## Experience
+**Healthmaster Holdings LLC, Walled Lake, MI**  
+CIO, Principal Architect  
+*November 2006 &ndash; September 2009* 
+- CIO and Principal Architect at an established organization, national market leader in electronic medical records software and Medicaid billing services for K12 schools.
+- Responsible for design and development of software products, basic project and technical team management as well as critical customer support. Architected reusable C# / XML code framework utilized across multiple company products.  Developed core C# code and stored procedure SQL of a SaaS based web application product to mirror existing client server electronic medical records software.  Designed and coded custom medical billing software system processing large volumes of HIPAA 837, 835 and 997 EDI files from over 30 school districts across 11 states, utilized primarily C#, SQL Server 2008, third party EDI processing code modules, XML.  Also responsible for overall database model design & development (including stored procedures, views, functions), continuous database performance monitoring and tuning of all mission critical internal and customer databases.  Implemented automated application testing, web application stress testing and unit testing practices utilizing AutomatedQA tool and unit test classes.  Applied following technologies: C#, ASP.NET, SQL Server, IIS, WSE 3.1, XML, XPATH, XSLT, jQuery, AJAX, JSON, Visual Basic, Visual Studio 2005, Enterprise Library 3.1, SQL Server 2000, 2005 & 2008, SourceSafe, SQL Server Profiler
+
+## Experience
+**imX Solutions, Royal Oak, MI**  
+CTO, Lead Developer  
+*September 2005 &ndash; November 2006* 
+- CTO and Lead Developer at a startup organization, market leader in digital gift cards payment form and two factor authentication security solutions for the Internet.
+- Responsible for design and development of software products, basic project and technical team management as well as critical customer support. Acted as an architect and lead developer for the company flagship product, digital gift card utilized to conduct secure monetary transactions across the Internet. The transaction system was a basic secure banking system utilizing Java, Oracle, Jboss, Tomcat and Apache technologies.  Digital gift card solution was developed with Flash action script and secured with custom code encryption and obfuscations tools.  Additionally, developed system monitoring and intrusion detection tools and patented context token two factor authentication solution.  Applied following technologies: C++, C# and SQL Server, MVC, Java, Oracle, Jboss, Tomcat, J2EE, JSP, XML, Hibernate and Apache
+
+
+**JDM Systems Consultant, Farmington Hills, MI**  
+Enterprise Architect  
+*November 2003 &ndash; September 2005* 
+- Enterprise Architect at a large consulting practice (200 person organization), local market leader for technical resources, systems development and project management.
+- Responsible for enterprise architecture recommendations, development of coding standards and practices, design and implementation of reusable solutions, web services for a global automotive parts supplier and various other organizations. Architect of GFAD (Global Framework Architecture for Development) for a global supplier organization, developed global authentication system and supported global support request ticket system.  Applied following technologies: C#, VB.NET, ASP.NET, SQL Server, Java Script, IIS, Java, JSP, Oracle, JBoss, Tomcat, Apache, Struts, XML, Crystal Reports, SOAP, Web Services (ASMX, WSE 3.1), UML, MSMQ
+
+
+**LogicaCMG (formerly Great Lakes Technologies Group), Southfield, MI**  
+Technical Architect  
+*August 1997 &ndash; November 2003* 
+- Technical Architect at a global consulting practice, market leader for technical resources, systems development and project management.
+- Responsible for systems architecture, directing business requirements processes, development of coding standards and practices, design and implementation of reusable architectures, system development and implementations, performance improvement strategies and multiple project management for a variety of organizations (international car manufacturers, marketing, publishing and insurance). Architected a variety of production systems for in-house operations, automotive manufacturing production floor support and Internet based solutions, assisted in account development, recruited multiple technical candidates.  Applied following technologies: VB.NET, ASP.NET, SQL Server, Java Script, COM+, MTS, IIS, ASP, Webshpere, Java, JSP, Oracle, JBoss, Tomcat, Apache, Struts, XML, SAP, Crystal Reports, DB2, C++
+
+
+**New Wave Software, Clinton Township, MI**  
+Owner, Lead Developer
+*April 1994 &ndash; September 1997* 
+- Lead Developer at small consulting practice, local provider of technical resources and systems development.
+- Responsible for systems architecture, technology leadership and development for multiple organizations. Developed key components of a multi-million dollar ERP solution for the steel industry.  Developed and implemented a variety of plant floor support systems for an international car manufacturer.
+
+
+**Fourth Wave Technologies, Troy, MI**  
+Developer
+*February 1993 &ndash; April 1994* 
+- Developer at small business, local provider of shrink-wrapped commercial products, technical resources and systems development.
+- Responsible for software development of various applications. Developed key communication components of the company's flagship product (shrink-wrap software, rated #1 by PC Magazine – WinBeep, alphanumeric pager software utilized by Skytel, Motorola and various other organizations)
+
+
 
 ## Certifications
 - Amazon Certified Associate Developer, 03/2018
