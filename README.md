@@ -44,5 +44,5 @@ Principal Software Engineer
 Information Systems Management   
 **Oakland Community College**  
 Computer Information Systems  
-**Udemy, acloud.guru**
+**Udemy, acloud.guru**  
 Wide variety of courses completed
