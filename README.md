@@ -27,8 +27,17 @@
 Principal Software Engineer  
 *March 2017 &ndash; Present*  
 
+## Certifications
+Amazon Certified Associate Developer, 03/2018
+Amazon Certified Associate Architect, 04/2018
+Amazon Big Data Specialty Certification – in progress
+Amazon Machine Learning Specialty Certification – in progress
+Microsoft Certified Professional in Analyzing Requirements and Defining Solution Architectures, 05/2000
+
 ## Education
 **University of Phoenix**  
 Information Systems Management   
 **Oakland Community College**  
 Computer Information Systems  
+**Udemy, acloud.guru**
+Wide variety of courses completed
