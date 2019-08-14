@@ -14,7 +14,7 @@
 ### Strong
 - Java, Node.js, Python, C#, JavaScript, Groovy, PHP, HTML, CSS, AWS, Drools, SQL Server, NoSQL DBs, Mulesoft, REST, Integrations, APIs, Full Stack, MVC, Serverless, Debugging, Big Data ETL, Hadoop, Spark, Hive, Unit Testing, Performance Monitoring, Security, Frameworks, Configuration Driven Development, Agile, Scrum, TDD, InRule, PB Spectrum, CI/CD, Maven, Data Lake, CircleCI
 ### Knowledgeable
-- Linux, C++, Grails, Docker, ServiceNow, Salesforce, Angular, IIS, Apache, Machine Learning, SEO, Mobile Development, Azure, WordPress, Heroku, TFS
+- Linux, C++, Grails, Docker, ServiceNow, Salesforce, Angular, IIS, Apache, Machine Learning, SEO, Mobile Development, Azure, WordPress, Heroku, TFS, Cloudera/Hortonworks Data Platform
 
 ## Soft Skills
 ### Strong
