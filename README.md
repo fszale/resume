@@ -13,14 +13,14 @@
 
 ## Technical Skills
 ### Strong
-- Java, Node.js, Python, C#, JavaScript, Groovy, PHP, HTML, CSS, AWS, Drools, SQL Server, NoSQL DBs, Mulesoft, REST, Integrations, APIs, Full Stack, MVC, Serverless, Debugging, Big Data ETL, Hadoop, Spark, Hive, Unit Testing, Performance Monitoring, Security, Frameworks, Configuration Driven Development, Agile, Scrum, TDD, InRule, PB Spectrum, CI/CD, Maven, Data Lake, CircleCI
+- Java, Node.js, Python, C#, JavaScript, Groovy, PHP, HTML, CSS, AWS, Drools, SQL Server, NoSQL DBs, Mulesoft, REST, Integrations, APIs, Full Stack, MVC, Serverless, Architecture, Debugging, Big Data ETL, Hadoop, Spark, Hive, Unit Testing, Performance Monitoring, Security, Frameworks, Configuration Driven Development, Agile, Scrum, TDD, InRule, PB Spectrum, CI/CD, Maven, Data Lake, CircleCI
 ### Knowledgeable
 - Linux, C++, Grails, Docker, ServiceNow, Salesforce, Angular, IIS, Apache, Machine Learning, SEO, Mobile Development, Azure, WordPress, Heroku, TFS, Cloudera/Hortonworks Data Platform
 
 
 ## Soft Skills
 ### Strong
-- Technical Innovation, Startups, Communication, Mentoring, Problem Solving, Leadership, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking
+- Technical Innovation, Startups, Communication, Mentoring, Problem Solving, Leadership, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking, Creating Order out of Chaos
 ### Knowledgeable
 - Business Planning, Product Marketing, Lead Origination, Cold Calling, Sales, Process Improvement, Relationship Building, Public Speaking, Persuasion, Data Analytics, Finance, Mortgage Process, Automotive, Medical Billing, EMR, eCommerce, Insurance, Marketing, Steel, Manufacturing, Software as a Service, Expense Recovery
 
