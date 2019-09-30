@@ -3,11 +3,11 @@
 
 # Filip Szalewicz &ndash; Principal Software Engineer
 - Principal Engineer with a history of technology innovation, complex problem solving, product development and support
-- Invented and implemented multiple systems directly responsible for 100+ millions in revenue
+- Invented and implemented multiple systems directly responsible for 10+ millions in revenue
 - Broad range of experience in leading cloud platforms and technologies
-- Effective inventor, communicator, mentor and leader
+- Effective mentor and leader, communicator and inventor
 - AWS Certified Architect and Developer
-- Advanced work experience with Big Data and Machine Learning
+- Advanced work experience with Big Data, Rules Engines, Machine Learning
 - Small business owner 
 
 
@@ -20,9 +20,9 @@
 
 ## Soft Skills
 ### Strong
-- Technical Innovation, Startups, Communication, Mentoring, Problem Solving, Leadership, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking, Creating Order out of Chaos
+- Technical Innovation, Mentoring, Communication, Revenue Growth, Startups, Problem Solving, Leadership, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking, Creating Order out of Chaos
 ### Knowledgeable
-- Business Planning, Product Marketing, Lead Origination, Cold Calling, Sales, Process Improvement, Relationship Building, Public Speaking, Persuasion, Data Analytics, Finance, Mortgage Process, Automotive, Medical Billing, EMR, eCommerce, Insurance, Marketing, Steel, Manufacturing, Software as a Service, Expense Recovery
+- Business Planning, Product Marketing, Lead Origination, Cold Calling, Sales, Process Improvement, Relationship Building, Public Speaking, Content Publishing, Persuasion, Data Analytics, Finance, Mortgage Process, Automotive, Medical Billing, EMR, eCommerce, Insurance, Marketing, Steel, Manufacturing, Software as a Service, Expense Recovery
 
 
 ## Experience
@@ -30,7 +30,14 @@
 Principal Software Engineer  
 *March 2017 &ndash; Present*  
 - Principal Software Engineer at Quicken Loans, the #1 rated mortgage lender and servicer in the US, and one of the best technology companies in the world.
-- Responsible for technical innovation, mentoring engineers, solution architecture, full stack system development, deployment and support of multiple machine learning, cloud and big data initiatives.  Invented multiple systems applying advanced GAN based machine learning solutions for the purpose of data classification, data enrichment and lead generation effectively resulting in tangible revenue growth.  Performed as a primary engineer for multiple AWS based systems responsible for human resources management, loan, property and client master data management, lead generation, risk mitigation, ESB integrations, enterprise REST APIs, machine learning application in data science, Big Data ETL, operationalizing data lake and machine learning as a service initiative. Participated in various internal communities, assisted in development of enterprise cloud enablement standards, ESB integration standards, SOA implementations, driving the adoption of push button model deployment and continuous integration and delivery for the data science division.  Several of the big data projects I have engineered have a direct impact resulting in both cost savings and revenue generation far exceeding hundreds of millions of dollars. Utilized a wide variety of tools and technologies across multiple projects; AWS – Cloud Formation, Dynamodb, SQS, Glue, IAM, Lambda, EC2, ElastiCache, API Gateway, VPC, SageMaker, and others, Mulesoft Gateways and ESBs, Pitney Bowes Spectrum, Cloudera / Hortonworks Data Platform, IBM DSX, Zeppelin, Jupyter, Java, C#, Python, Groovy, Node.js, Tomcat, Drools, Spark, Hadoop, S3, Hive, Ranger, HBase, NiFi, Oozie, InRule, Yarn
+- Several of the big data projects I have engineered have a direct impact in growing revenue as well as cost savings in excess of millions of dollars. 
+- Responsible for technical innovation, mentoring engineers, solution architecture, full stack system development, deployment and support of multiple machine learning, cloud and big data initiatives across multiple companies that are part of the enterprise (family of companies).
+- Performed as a primary engineer for multiple AWS based systems responsible for human resources management, loan, property and client master data management, lead generation, risk mitigation, ESB integrations, enterprise wide REST APIs, rules engines implementations and other projects.
+- Performed as a primary engineer in the data science division, operationalizing first enterprise data lake and machine learning as a service initiative.  Architected systems framework and code generators for implementation across data science, big data ETLs and applied it in multiple production systems.
+- Participated in various internal communities, candidate recruitment, represented enterprise at conferences, assisted in development of enterprise cloud enablement standards, ESB integration standards, SOA implementations, driving the adoption of push button model deployment and continuous integration and delivery for the data science division.  
+- Personally mentored and trained dozens of engineers (and multiple business analysts) on configuration driven design, functional programming, rules engines, big data ETLs, Spark programming, performance optimization, code generators, code reuse and personal development.
+- Invented a unique application of Snorkel, machine learning GANs and graph database to automate feature detection and selection at big data scale.
+- Utilized a wide variety of tools and technologies across multiple projects; AWS – Cloud Formation, Dynamodb, SQS, Glue, IAM, Lambda, EC2, ElastiCache, API Gateway, VPC, SageMaker, and others, Mulesoft Gateways and ESBs, Pitney Bowes Spectrum, Cloudera / Hortonworks Data Platform, IBM DSX, Zeppelin, Jupyter, Java, C#, Python, Groovy, Node.js, Tomcat, Drools, Spark, Hadoop, S3, Hive, Ranger, HBase, NiFi, Oozie, InRule, Yarn
 
 ## Experience
 **360ofme Inc, Royal Oak, MI**  
