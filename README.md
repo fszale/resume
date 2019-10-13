@@ -5,9 +5,10 @@
 - Principal Engineer with a history of technology innovation, complex problem solving, product development and support
 - Invented and implemented multiple systems directly responsible for 10+ millions in revenue
 - Broad range of experience in leading cloud platforms and technologies
-- Effective mentor and leader, communicator and inventor
 - AWS Certified Architect and Developer
+- Effective mentor and leader, communicator and inventor
 - Advanced work experience with Big Data, Rules Engines, Machine Learning
+- Experienced developing and managing local and remote engineering teams 
 - Small business owner 
 
 
@@ -31,7 +32,7 @@ Principal Software Engineer
 *March 2017 &ndash; Present*  
 - Principal Software Engineer at Quicken Loans, the #1 rated mortgage lender and servicer in the US, and one of the best technology companies in the world.
 - Several of the big data projects I have engineered have a direct impact in growing revenue as well as cost savings in excess of millions of dollars. 
-- Responsible for technical innovation, mentoring engineers, solution architecture, full stack system development, project management, technical team leadership, deployment and support of multiple machine learning, cloud and big data initiatives across multiple companies that are part of the enterprise (family of companies).
+- Responsible for technical innovation, mentoring engineers, solution architecture, full stack system development, project management, technical team leadership, management of remote engineering teams, deployment and support of multiple machine learning, cloud and big data initiatives across multiple companies that are part of the enterprise (family of companies).
 - Performed as a primary engineer for multiple AWS based systems responsible for human resources management, loan, property and client master data management, lead generation, risk mitigation, ESB integrations, enterprise wide REST APIs, rules engines implementations and other projects.
 - Performed as a primary engineer in the data science division, operationalizing first enterprise data lake and machine learning as a service initiative.  Architected systems framework and code generators for implementation across data science, big data ETLs and applied it in multiple production systems.
 - Participated in various internal communities, candidate recruitment, represented enterprise at conferences, assisted in development of enterprise cloud enablement standards, ESB integration standards, SOA implementations, driving the adoption of push button model deployment and continuous integration and delivery for the data science division.  
