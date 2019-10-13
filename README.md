@@ -13,14 +13,14 @@
 
 ## Technical Skills
 ### Strong
-- Java, Node.js, Python, C#, JavaScript, Groovy, PHP, HTML, CSS, AWS, Drools, SQL Server, NoSQL DBs, Mulesoft, REST, Integrations, APIs, Full Stack, MVC, Serverless, Architecture, Debugging, Big Data ETL, Hadoop, Spark, Hive, Unit Testing, Performance Monitoring, Security, Frameworks, Configuration Driven Development, Agile, Scrum, TDD, InRule, PB Spectrum, CI/CD, Maven, Data Lake, CircleCI
+- Java, Node.js, Python, C#, JavaScript, Groovy, PHP, HTML, CSS, AWS, Drools, Rules Engines, Code Generators, SQL Server, NoSQL DBs, Mulesoft, REST, Integrations, APIs, Full Stack, MVC, Serverless, Architecture, Debugging, Big Data ETL, Hadoop, Spark, Hive, Unit Testing, Performance Monitoring, Security, Frameworks, Configuration Driven Development, Agile, Scrum, TDD, InRule, PB Spectrum, CI/CD, Maven, Data Lake, Data Warehouse, CircleCI
 ### Knowledgeable
 - Linux, C++, Grails, Docker, ServiceNow, Salesforce, Angular, IIS, Apache, Machine Learning, SEO, Mobile Development, Azure, WordPress, Heroku, TFS, Cloudera/Hortonworks Data Platform
 
 
 ## Soft Skills
 ### Strong
-- Technical Innovation, Mentoring, Communication, Revenue Growth, Startups, Problem Solving, Leadership, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking, Creating Order out of Chaos
+- Technical Innovation, Leadership, Mentoring, Communication, Revenue Growth, Startups, Problem Solving, Project Management, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking, Creating Order out of Chaos
 ### Knowledgeable
 - Business Planning, Product Marketing, Lead Origination, Cold Calling, Sales, Process Improvement, Relationship Building, Public Speaking, Content Publishing, Persuasion, Data Analytics, Finance, Mortgage Process, Automotive, Medical Billing, EMR, eCommerce, Insurance, Marketing, Steel, Manufacturing, Software as a Service, Expense Recovery
 
@@ -31,7 +31,7 @@ Principal Software Engineer
 *March 2017 &ndash; Present*  
 - Principal Software Engineer at Quicken Loans, the #1 rated mortgage lender and servicer in the US, and one of the best technology companies in the world.
 - Several of the big data projects I have engineered have a direct impact in growing revenue as well as cost savings in excess of millions of dollars. 
-- Responsible for technical innovation, mentoring engineers, solution architecture, full stack system development, deployment and support of multiple machine learning, cloud and big data initiatives across multiple companies that are part of the enterprise (family of companies).
+- Responsible for technical innovation, mentoring engineers, solution architecture, full stack system development, project management, technical team leadership, deployment and support of multiple machine learning, cloud and big data initiatives across multiple companies that are part of the enterprise (family of companies).
 - Performed as a primary engineer for multiple AWS based systems responsible for human resources management, loan, property and client master data management, lead generation, risk mitigation, ESB integrations, enterprise wide REST APIs, rules engines implementations and other projects.
 - Performed as a primary engineer in the data science division, operationalizing first enterprise data lake and machine learning as a service initiative.  Architected systems framework and code generators for implementation across data science, big data ETLs and applied it in multiple production systems.
 - Participated in various internal communities, candidate recruitment, represented enterprise at conferences, assisted in development of enterprise cloud enablement standards, ESB integration standards, SOA implementations, driving the adoption of push button model deployment and continuous integration and delivery for the data science division.  
