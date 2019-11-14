@@ -9,7 +9,7 @@
 - Effective mentor and leader, communicator and inventor
 - Advanced work experience with Big Data, Rules Engines, Machine Learning
 - Experienced developing and managing local and remote engineering teams 
-- Small business owner 
+- Small business owner
 
 
 ## Technical Skills
@@ -111,7 +111,9 @@ Developer
 - Developer at small business, local provider of shrink-wrapped commercial products, technical resources and systems development.
 - Responsible for software development of various applications. Developed key communication components of the company's flagship product (shrink-wrap software, rated #1 by PC Magazine – WinBeep, alphanumeric pager software utilized by Skytel, Motorola and various other organizations)
 
-
+## Patents
+- [System, method and apparatus for conducting secure online monetary transactions](https://patents.google.com/?inventor=Filip+Szalewicz&oq=inventor:(Filip+Szalewicz))
+- [Optical Disc](https://patents.google.com/patent/USD574006S1)
 
 ## Certifications
 - Amazon Certified Associate Developer, 03/2018
