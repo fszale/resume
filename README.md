@@ -130,3 +130,8 @@ Information Systems Management
 Computer Information Systems  
 **Udemy, acloud.guru**  
 Wide variety of courses completed
+
+## Public
+- Published Thoughts : [https://medium.com/@filipszalewicz](https://medium.com/@filipszalewicz)
+- YouTube Channel: [https://www.youtube.com/channel/UC_nYBw5eWF01Hg8ptni-g-g](https://www.youtube.com/channel/UC_nYBw5eWF01Hg8ptni-g-g)
+- Consulting Business: [https://www.solidcage.com](http://www.solidcage.com)
