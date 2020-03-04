@@ -3,7 +3,7 @@
 
 # Filip Szalewicz &ndash; Principal Software Engineer
 - Principal Engineer with a strong history of technology innovation, complex problem solving, product development and people management 
-- Invented and implemented multiple systems directly responsible for 10+ millions in revenue
+- Invented and implemented multiple platform systems directly responsible for 10+ millions in revenue
 - Broad range of experience in leading cloud platforms and technologies
 - AWS Certified Architect and Developer
 - Effective mentor and leader, communicator and inventor
