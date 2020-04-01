@@ -21,7 +21,7 @@
 
 ## Soft Skills
 ### Strong
-- Technical Innovation, Leadership, Mentoring, Communication, Revenue Growth, Startups, Problem Solving, Project Management, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking, Creating Order out of Chaos
+- Technical Innovation, Transformational Leadership, Lean Product Development, Mentoring, Communication, Revenue Growth, Startups, Problem Solving, Project Management, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking, Creating Order out of Chaos
 ### Knowledgeable
 - Business Planning, Product Marketing, Lead Origination, Cold Calling, Sales, Process Improvement, Relationship Building, Public Speaking, Content Publishing, Persuasion, Data Analytics, Finance, Mortgage Process, Automotive, Medical Billing, EMR, eCommerce, Insurance, Marketing, Steel, Manufacturing, Software as a Service, Expense Recovery
 
