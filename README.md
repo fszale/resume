@@ -49,7 +49,7 @@ CTO, Principal Software Engineer
 
 ## Experience
 **Solid Cage Inc, Macomb, MI**  
-Owner, Principal Software Engineer  
+Business Owner, Principal Software Engineer  
 *September 2009 &ndash; Present* 
 - Principal Engineer at a local provider of business websites, web and mobile application development and custom SaaS software development.  
 - Responsible for solutions architecture and application development, management of resources and customer support.
@@ -85,21 +85,21 @@ CTO, Lead Developer
 
 
 **JDM Systems Consultant, Farmington Hills, MI**  
-Enterprise Architect  
+Senior Consultant, Enterprise Architect  
 *November 2003 &ndash; September 2005* 
 - Enterprise Architect at a large consulting practice (200 person organization), local market leader for technical resources, systems development and project management.
 - Responsible for enterprise architecture recommendations, development of coding standards and practices, design and implementation of reusable solutions, web services for a global automotive parts supplier and various other organizations. Architect of GFAD (Global Framework Architecture for Development) for a global supplier organization, developed global authentication system and supported global support request ticket system.  Applied following technologies: C#, VB.NET, ASP.NET, SQL Server, Java Script, IIS, Java, JSP, Oracle, JBoss, Tomcat, Apache, Struts, XML, Crystal Reports, SOAP, Web Services (ASMX, WSE 3.1), UML, MSMQ
 
 
 **LogicaCMG (formerly Great Lakes Technologies Group), Southfield, MI**  
-Technical Architect  
+Senior Consultant, Technical Architect  
 *August 1997 &ndash; November 2003* 
 - Technical Architect at a global consulting practice, market leader for technical resources, systems development and project management.
 - Responsible for systems architecture, directing business requirements processes, development of coding standards and practices, design and implementation of reusable architectures, system development and implementations, performance improvement strategies and multiple project management for a variety of organizations (international car manufacturers, marketing, publishing and insurance). Architected a variety of production systems for in-house operations, automotive manufacturing production floor support and Internet based solutions, assisted in account development, recruited multiple technical candidates.  Applied following technologies: VB.NET, ASP.NET, SQL Server, Java Script, COM+, MTS, IIS, ASP, Webshpere, Java, JSP, Oracle, JBoss, Tomcat, Apache, Struts, XML, SAP, Crystal Reports, DB2, C++
 
 
 **New Wave Software, Clinton Township, MI**  
-Owner, Lead Developer
+Business Owner, Lead Developer
 *April 1994 &ndash; September 1997* 
 - Lead Developer at small consulting practice, local provider of technical resources and systems development.
 - Responsible for systems architecture, technology leadership and development for multiple organizations. Developed key components of a multi-million dollar ERP solution for the steel industry.  Developed and implemented a variety of plant floor support systems for an international car manufacturer.
