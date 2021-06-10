@@ -128,7 +128,7 @@ Developer
 
 
 ## Education
-- **University of Phoenix** Bachelor's degree in Information Systems Management, Incomplete
+- **University of Phoenix** Bachelor's degree in Information Systems Management, in progress
 - **Oakland Community College** Associate's degree in Computer Information Systems
 - **Udemy, acloud.guru** Wide variety of courses completed
 
