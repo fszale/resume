@@ -122,13 +122,11 @@ Developer
 ## Certifications
 - Amazon Certified Associate Developer, 03/2018
 - Amazon Certified Associate Architect, 04/2018
-- Amazon Big Data Specialty Certification – in progress
-- Amazon Machine Learning Specialty Certification – in progress
 - Microsoft Certified Professional in Analyzing Requirements and Defining Solution Architectures, 05/2000
 
 
 ## Education
-- **University of Phoenix** Bachelor's degree in Information Systems Management, in progress
+- **University of Phoenix** Bachelor's degree in Information Systems Management, incomplete
 - **Oakland Community College** Associate's degree in Computer Information Systems
 - **Udemy, acloud.guru** Wide variety of courses completed
 
