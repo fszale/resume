@@ -129,9 +129,9 @@ Developer
 
 ## Education
 **University of Phoenix**  
-Information Systems Management   
+Information Systems Management - Bachelor, Incomplete
 **Oakland Community College**  
-Computer Information Systems  
+Computer Information Systems - Associate
 **Udemy, acloud.guru**  
 Wide variety of courses completed
 
