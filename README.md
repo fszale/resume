@@ -128,12 +128,9 @@ Developer
 
 
 ## Education
-**University of Phoenix**  
-Information Systems Management - Bachelor, Incomplete
-**Oakland Community College**  
-Computer Information Systems - Associate
-**Udemy, acloud.guru**  
-Wide variety of courses completed
+- **University of Phoenix** Bachelor of Information Systems Management, Incomplete
+- **Oakland Community College** Associate's degree in Computer Information Systems
+- **Udemy, acloud.guru** Wide variety of courses completed
 
 ## Public
 - Github Profile: [https://github.com/fszale](https://github.com/fszale)
