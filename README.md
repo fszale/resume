@@ -1,9 +1,19 @@
 > [filip szalewicz](https://www.linkedin.com/in/fszalewicz/) |
 [fszale@yahoo.com](mailto:fszale@yahoo.com)
 
-# Filip Szalewicz &ndash; Team Leader Data Science
+# Filip Szalewicz &ndash; Senior Architect
+
+## Key Capabilities
+- Creates decision clarity for the executives
+- Accelerates delivery of strategic data engineering products
+- De-risks delivery of advanced analytics and data science products
+- Innovation driver for digital transformation
+
+
+## Competencies
 - Moves fast, automates everything, builds foundational products, mentors people, focused on growing business revenue
-- Transformational leader dedicated to lean product development
+- Force multiplier for engineering teams
+- Transformational innovation leader dedicated to lean product development
 - Invented and implemented multiple platform systems directly responsible for 10+ millions in revenue and growing
 - Broad range of experience in leading cloud platforms and technologies
 - AWS Certified Architect and Developer
@@ -21,21 +31,28 @@
 
 ## Soft Skills
 ### Strong
-- Technical Innovation, Transformational Leadership, Lean Product Development, Mentoring, Communication, Revenue Growth, Startups, Problem Solving, Project Management, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking, Creating Order out of Chaos
+- Technical Innovation, Transformational Leadership, Consensus Building, Lean Product Development, Mentoring, Communication, Requirements Gathering, Presentations, Startup Experience, Problem Solving, Project Management, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking, Creating Order out of Chaos
 ### Knowledgeable
 - Business Planning, Product Marketing, Lead Origination, Cold Calling, Sales, Process Improvement, Relationship Building, Public Speaking, Content Publishing, Persuasion, Data Analytics, Finance, Mortgage Process, Automotive, Medical Billing, EMR, eCommerce, Insurance, Marketing, Steel, Manufacturing, Software as a Service, Expense Recovery
 
 
 ## Experience
-**Quicken Loans, Detroit, MI**  
-- **Team Leader Data Science** from 2021 - Present
+**West Monroe Partners, Chicago, IL**  
+- **Senior Architect** from September 2021 - Present
+
+
+- Senior Architect focused on digital transformation, aligned with Data Engineering and Advanced Analytics Competencies, providing advisory services to client and private equity executives
+- Responsible for building advanced data capabilities for digital transformation clients, activities include client proposal development, project delivery management, consultant mentoring, SOWs, data lake and warehouse architecture, advanced analytics, leading discovery sessions, consensus building, strategy development across a wide range of clients, team building
+
+**Rocket Mortgage (previously Quicken Loans), Detroit, MI**  
+- **Team Leader Data Science** until August 2021
 - **Principal Software Engineer** from March 2019, 2 years
 - **Senior Software Engineer** from March 2017, 2 years
 
 
 - Team Leader for automated machine learning data science team at Quicken Loans, the #1 mortgage lender and servicer in the US, and one of the best technology companies to work for.
 - Several of the big data projects I have engineered have a direct impact on growing revenue as well as cost savings in excess of millions of dollars.
-- Currently responsible for a team focused on automated machine learning platform for the Rocket companies.
+- Built a team focused on automated machine learning platform for the Rocket companies.
 - Responsible for technical innovation, transformational leadership, platform product development, mentoring engineers, solution architecture, full stack system development, project management, technical team leadership, management of remote engineering teams, deployment and support of multiple machine learning, cloud and big data initiatives across multiple companies that are part of the enterprise (family of companies).
 - Performed as a consulting leader for multiple engineering efforts across Rocket Homes, Rocket Loans and Rocket Mortgage companies focused around big data pipelines, data lakes, data science and analytical projects.
 - Performed as a primary engineer for multiple AWS based systems responsible for human resources management, loan, property and client master data management, lead generation, risk mitigation, ESB integrations, enterprise wide REST APIs, rules engines implementations and other projects.
