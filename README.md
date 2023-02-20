@@ -1,7 +1,7 @@
 > [filip szalewicz](https://www.linkedin.com/in/fszalewicz/) |
 [fszale@yahoo.com](mailto:fszale@yahoo.com)
 
-# Filip Szalewicz &ndash; Senior Architect
+# Filip Szalewicz &ndash; VP of Engineering
 
 ## Key Capabilities
 - Creates decision clarity for the executives
@@ -46,7 +46,7 @@
 - Delivered data lake and initiated migration of advanced analytics and reporting to the trusted data warehouse.
 - Delivered client portal to expand client success capabilities.
 - Reduced operational expenses by 25%.
-- Implemented critical metrics and reduced support issue occurrences to near zero.
+- Implemented metrics driven culture and reduced support issue occurrences to near zero.
 - Improved issue resolution time by 500%.
 - Assisted in the implementation of an Enterprenurial Operating System (EOS) across the organization.
 - Built a team focused on client support, big data, APIs and performance driven digitial marketing.
@@ -57,8 +57,8 @@
 - **Senior Architect** from September 2021 - February 2022
 
 
-- Senior Architect focused on digital transformation, aligned with Data Engineering and Advanced Analytics Competencies, providing advisory services to client and private equity executives
-- Responsible for building advanced data capabilities for digital transformation clients, activities include client proposal development, project delivery management, consultant mentoring, SOWs, data lake and warehouse architecture, advanced analytics, leading discovery sessions, consensus building, strategy development across a wide range of clients, team building
+- Senior Architect focused on digital transformation, aligned with Data Engineering and Advanced Analytics Competencies, providing advisory services to six clients and private equity executives.
+- Responsible for building advanced data capabilities for digital transformation clients, activities include client proposal development, project delivery management, consultant mentoring, SOWs, data lake and warehouse architecture, advanced analytics, leading discovery sessions, consensus building, strategy development across a wide range of clients, team building.
 
 **Rocket Mortgage (previously Quicken Loans), Detroit, MI**  
 - **Team Leader Data Science** until August 2021
