@@ -7,7 +7,9 @@
 - Creates decision clarity for the executives
 - Accelerates delivery of strategic data engineering products
 - De-risks delivery of advanced analytics and data science products
-- Innovation driver for digital transformation
+- Innovation driver
+- Creates order out of chaos
+- Optimizes for time and value
 
 
 ## Competencies
@@ -24,21 +26,35 @@
 
 ## Technical Skills
 ### Strong
-- Java, Node.js, Python, C#, JavaScript, Groovy, PHP, HTML, CSS, AWS, Drools, Rules Engines, Code Generators, SQL Server, NoSQL DBs, Mulesoft, REST, Integrations, APIs, Full Stack, MVC, Serverless, Architecture, Debugging, Big Data ETL, Hadoop, Spark, Hive, Unit Testing, Performance Monitoring, Security, Frameworks, Configuration Driven Development, Agile, Scrum, TDD, InRule, PB Spectrum, CI/CD, Maven, Data Lake, Data Warehouse, CircleCI, Sagemaker
+- Java, Node.js, Python, C#, JavaScript, Groovy, PHP, HTML, CSS, AWS, GCP, Drools, Rules Engines, Code Generators, SQL Server, NoSQL DBs, Mulesoft, REST, Integrations, APIs, Full Stack, MVC, Serverless, Architecture, Debugging, Big Data ETL, Data Fusion, Airflow, Hadoop, Spark, Hive, Unit Testing, Performance Monitoring, Security, Frameworks, Configuration Driven Development, Agile, Scrum, TDD, InRule, PB Spectrum, CI/CD, Maven, Data Lake, Data Warehouse, CircleCI, Sagemaker
 ### Knowledgeable
 - Linux, C++, Grails, Docker, ServiceNow, Salesforce, Angular, IIS, Apache, Machine Learning, SEO, Mobile Development, Azure, WordPress, Heroku, TFS, Cloudera/Hortonworks Data Platform
 
 
 ## Soft Skills
 ### Strong
-- Technical Innovation, Transformational Leadership, Consensus Building, Lean Product Development, Mentoring, Communication, Requirements Gathering, Presentations, Startup Experience, Problem Solving, Project Management, Time Management, Detail Oriented, Production Support, On Time Delivery, Executive Advisor, Multitasking, Client Focused, Strategic Thinking, Creating Order out of Chaos
+- Executive Advisor, Strategic Thinking, Sales Support, Transformational Leadership, Consensus Building, Lean Product Development, Product Design, Mentoring, Communication, Technical Innovation, Requirements Gathering, Presentations, Startup Experience, Problem Solving, Project Management, Time Management, Detail Oriented, Production Support, On Time Delivery, Multitasking, Client Advocate
 ### Knowledgeable
-- Business Planning, Product Marketing, Lead Origination, Cold Calling, Sales, Process Improvement, Relationship Building, Public Speaking, Content Publishing, Persuasion, Data Analytics, Finance, Mortgage Process, Automotive, Medical Billing, EMR, eCommerce, Insurance, Marketing, Steel, Manufacturing, Software as a Service, Expense Recovery
+- Business Planning, Product Marketing, Lead Origination, Cold Calling, Sales, Process Improvement, Relationship Building, Public Speaking, Content Publishing, Persuasion, Data Analytics, Digital Marketing, Finance, Mortgage Process, Automotive, Medical Billing, EMR, eCommerce, Insurance, Steel, Manufacturing, SaaS, Expense Recovery
 
 
 ## Experience
+**Shoptelligence, Ann Arbor, MI**
+- **Vice President of Engineering** from February 2022 - Present
+
+- Expanded omnichannel platform with two new products, email content recommender for digital campaigns and an instore product recommender experience.
+- Delivered data lake and initiated migration of advanced analytics and reporting to the trusted data warehouse.
+- Delivered client portal to expand client success capabilities.
+- Reduced operational expenses by 25%.
+- Implemented critical metrics and reduced support issue occurrences to near zero.
+- Improved issue resolution time by 500%.
+- Assisted in the implementation of an Enterprenurial Operating System (EOS) across the organization.
+- Built a team focused on client support, big data, APIs and performance driven digitial marketing.
+- Responsible for technical innovation, transformational leadership, platform product development, mentoring engineers, solution architecture, full stack system development, project management, technical team leadership, management of remote engineering teams, deployment and client support of multiple SaaS products.
+- Utilized a wide variety of tools and technologies across multiple projects; GCP - BigQuery, Data Fusion, MySQL, Kubernetes, Apigee, Airflow, Looker Studio, Python, Java, JavaScript and others.
+
 **West Monroe Partners, Chicago, IL**  
-- **Senior Architect** from September 2021 - Present
+- **Senior Architect** from September 2021 - February 2022
 
 
 - Senior Architect focused on digital transformation, aligned with Data Engineering and Advanced Analytics Competencies, providing advisory services to client and private equity executives
