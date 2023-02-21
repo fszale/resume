@@ -42,14 +42,14 @@
 **Shoptelligence, Ann Arbor, MI**
 - **Vice President of Engineering** from February 2022 - Present
 
-- Expanded omnichannel platform with two new products, email content recommender for digital campaigns and an instore product recommender experience.
+- Expanded omni-channel platform with two new products, email content recommender for digital campaigns and an in store product recommender experience.
 - Delivered data lake and initiated migration of advanced analytics and reporting to the trusted data warehouse.
 - Delivered client portal to expand client success capabilities.
 - Reduced operational expenses by 25%.
 - Implemented metrics driven culture and reduced support issue occurrences to near zero.
 - Improved issue resolution time by 500%.
-- Assisted in the implementation of an Enterprenurial Operating System (EOS) across the organization.
-- Built a team focused on client support, big data, APIs and performance driven digitial marketing.
+- Assisted in the implementation of an Entrepreneurial Operating System (EOS) across the organization.
+- Built a team focused on client support, big data, APIs and performance driven digital marketing.
 - Responsible for technical innovation, transformational leadership, platform product development, mentoring engineers, solution architecture, full stack system development, project management, technical team leadership, management of remote engineering teams, deployment and client support of multiple SaaS products.
 - Utilized a wide variety of tools and technologies across multiple projects; GCP - BigQuery, Data Fusion, MySQL, Kubernetes, Apigee, Airflow, Looker Studio, Python, Java, JavaScript and others.
 
@@ -72,8 +72,8 @@
 - Responsible for technical innovation, transformational leadership, platform product development, mentoring engineers, solution architecture, full stack system development, project management, technical team leadership, management of remote engineering teams, deployment and support of multiple machine learning, cloud and big data initiatives across multiple companies that are part of the enterprise (family of companies).
 - Performed as a consulting leader for multiple engineering efforts across Rocket Homes, Rocket Loans and Rocket Mortgage companies focused around big data pipelines, data lakes, data science and analytical projects.
 - Performed as a primary engineer for multiple AWS based systems responsible for human resources management, loan, property and client master data management, lead generation, risk mitigation, ESB integrations, enterprise wide REST APIs, rules engines implementations and other projects.
-- Performed as a primary engineer in the data science division, operationalizing first enterprise data lake and machine learning as a service initiative.  Architected platform systems framework and code generators for implementation across data science, big data ETLs and applied it in multiple production systems.
-- Participated in the creation of and driving the implementation of a data fabric initiative to provide best sourced data across the enterprise, supported various internal communities, candidate recruitment, represented enterprise at conferences, assisted in development of enterprise cloud enablement standards, ESB integration standards, SOA implementations, created engineering training materials, driving the adoption of push button model deployment and continuous integration and delivery for the data science division.  
+- Performed as a primary engineer in the data science division, operationalized first enterprise data lake and machine learning as a service initiative.  Architected platform systems framework and code generators for implementation across data science, big data ETLs and applied it in multiple production systems.
+- Participated in the creation of and driving the implementation of a data fabric initiative to provide best sourced data across the enterprise, supported various internal communities, candidate recruitment, represented enterprise at conferences, assisted in development of enterprise cloud standards, ESB integration standards, SOA implementations, created engineering training materials, driving the adoption of push button model deployment and continuous integration and delivery for the data science division.  
 - Personally mentored and trained dozens of engineers (and multiple business analysts) on configuration driven design, functional programming, rules engines, big data ETLs, Spark programming, performance optimization, code generators, code reuse and personal development, 2020 winner of the "Special Achievement - Automate All the Things" company award.
 - Utilized a wide variety of tools and technologies across multiple projects; AWS – Cloud Formation, Dynamodb, SQS, Glue, IAM, Lambda, EC2, ElastiCache, API Gateway, VPC, SageMaker, and others, Mulesoft Gateways and ESBs, Pitney Bowes Spectrum, Cloudera / Hortonworks Data Platform, IBM DSX, Zeppelin, Jupyter, Java, C#, Python, Groovy, Node.js, Tomcat, Drools, Spark, Hadoop, S3, Hive, Ranger, HBase, NiFi, Oozie, InRule, Yarn
 
