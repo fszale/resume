@@ -1,7 +1,7 @@
 > [filip szalewicz](https://www.linkedin.com/in/fszalewicz/) |
 [fszale@yahoo.com](mailto:fszale@yahoo.com)
 
-# Filip Szalewicz &ndash; VP of Engineering
+# Filip Szalewicz &ndash; VP of Engineerindg
 
 ## Key Capabilities
 - Creates decision clarity for the executives
