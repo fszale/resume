@@ -1,5 +1,5 @@
 > [filip szalewicz](https://www.linkedin.com/in/fszalewicz/) |
-[fszale@yahoo.com](mailto:fszale@yahoo.com)
+[fszale@gmail.com](mailto:fszale@gmail.com)
 
 # Filip Szalewicz &ndash; VP of Engineering
 
