@@ -39,7 +39,8 @@
 
 ## Experience
 **Shoptelligence, Ann Arbor, MI**
-- **Vice President of Engineering** from February 2022 - Present
+
+**Vice President of Engineering** from February 2022 - Present
 
 - Expanded omni-channel platform with two new products, email content recommender for digital campaigns and an in store product recommender experience.
 - Delivered data lake and initiated migration of advanced analytics and reporting to the trusted data warehouse.
@@ -52,17 +53,22 @@
 - Responsible for technical innovation, transformational leadership, platform product development, mentoring engineers, solution architecture, full stack system development, project management, technical team leadership, management of remote engineering teams, deployment and client support of multiple SaaS products.
 - Utilized a wide variety of tools and technologies across multiple projects; GCP - BigQuery, Data Fusion, MySQL, Kubernetes, Apigee, Airflow, Looker Studio, Python, Java, JavaScript and others.
 
+- - - -
 **West Monroe Partners, Chicago, IL**  
-- **Senior Architect** from September 2021 - February 2022
 
+**Senior Architect** from September 2021 - February 2022
 
 - Senior Architect focused on digital transformation, aligned with Data Engineering and Advanced Analytics Competencies, providing advisory services to six clients and private equity executives.
 - Responsible for building advanced data capabilities for digital transformation clients, activities include client proposal development, project delivery management, consultant mentoring, SOWs, data lake and warehouse architecture, advanced analytics, leading discovery sessions, consensus building, strategy development across a wide range of clients, team building.
 
+- - - -
 **Rocket Mortgage (previously Quicken Loans), Detroit, MI**  
-- **Team Leader Data Science** until August 2021
-- **Principal Software Engineer** from March 2019, 2 years
-- **Senior Software Engineer** from March 2017, 2 years
+
+**Team Leader Data Science** until August 2021
+
+**Principal Software Engineer** from March 2019, 2 years
+
+**Senior Software Engineer** from March 2017, 2 years
   
 - Team Leader for automated machine learning data science team at Quicken Loans, the #1 mortgage lender and servicer in the US, and one of the best technology companies to work for.
 - Several of the big data projects I have engineered have a direct impact on growing revenue as well as cost savings in excess of millions of dollars.
@@ -75,17 +81,19 @@
 - Personally mentored and trained dozens of engineers (and multiple business analysts) on configuration driven design, functional programming, rules engines, big data ETLs, Spark programming, performance optimization, code generators, code reuse and personal development, 2020 winner of the "Special Achievement - Automate All the Things" company award.
 - Utilized a wide variety of tools and technologies across multiple projects; AWS – Cloud Formation, Dynamodb, SQS, Glue, IAM, Lambda, EC2, ElastiCache, API Gateway, VPC, SageMaker, and others, Mulesoft Gateways and ESBs, Pitney Bowes Spectrum, Cloudera / Hortonworks Data Platform, IBM DSX, Zeppelin, Jupyter, Java, C#, Python, Groovy, Node.js, Tomcat, Drools, Spark, Hadoop, S3, Hive, Ranger, HBase, NiFi, Oozie, InRule, Yarn
 
-## Experience
+- - - -
 **360ofme Inc, Royal Oak, MI**  
-CTO, Principal Software Engineer  
-*March 2016 &ndash; March 2017*
+
+**CTO** from March 2016 &ndash; March 2017
+  
 - Principal Engineer at a startup organization providing the first comprehensive platform with the purpose of managing, securing and controlling the data of you.  Product has been officially demonstrated at Dreamforce 16 in San Francisco.
 - Responsible for solution architecture, full stack system development, systems deployment and support, technical vendor management, local and offshore team management, mentoring junior engineers, development of framework and various components, including but not limited to REST APIs, web client, server side workers, integrations with a variety of AWS services (S3, Key Management, Lambda and others), SnapLogic, DicomGrid, Salesforce instances, IBM Watson APIs integration and more.  Solution is developed primarily with Node.js utilizing HAPI, Express, Angular, MongoDB, Postgresql, RabbitMQ, Salesforce APIs (Apex).  Mobile clients have also been developed utilizing ionic framework.  The production environment consists of AWS and Heroku utilizing a variety of Heroku add-ons.  Architected and developed a unique security implementation to protect the data at all stages including real time transaction monitoring, evaluated the solution for patent filing.  Implemented a continuous product delivery process with nightly builds and relies on strong unit testing practices.  Solution has been successfully demonstrated at Dreamforce 16.
 
-## Experience
+- - - -
 **Solid Cage Inc, Macomb, MI**  
-Principal Software Engineer, Owner
-*September 2009 &ndash; Present*
+
+**Principal Software Engineer**, Owner from September 2009 &ndash; Present
+  
 - Principal Engineer at a local provider of business websites, web and mobile application development and custom SaaS software development.  
 - Responsible for solutions architecture and application development, management of resources and customer support.
   * Interacts with project managers, users and business owners to gather and analyze system requirements.
