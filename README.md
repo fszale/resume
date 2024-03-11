@@ -117,5 +117,5 @@
 ## Public
 - Github Profile: [https://github.com/fszale](https://github.com/fszale)
 - Published Thoughts : [https://medium.com/@filipszalewicz](https://medium.com/@filipszalewicz)
-- YouTube Channel: [https://www.youtube.com/channel/UC_nYBw5eWF01Hg8ptni-g-g](https://www.youtube.com/channel/UC_nYBw5eWF01Hg8ptni-g-g)
+- YouTube Channel: [https://www.youtube.com/@Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome)
 - Consulting Business: [https://www.solidcage.com](http://www.solidcage.com)
