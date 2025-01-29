@@ -18,7 +18,7 @@
 - Invented and implemented multiple platform systems directly responsible for 10+ millions in revenue and growing
 - Broad range of experience in leading cloud platforms and technologies
 - AWS Certified Architect and Developer
-- Advanced work experience with Big Data, Rules Engines, Machine Learning
+- Advanced engineering work experience with Big Data, Rules Engines, Machine Learning
 - Experienced developing and managing local and remote engineering teams
 - Small business owner
 
