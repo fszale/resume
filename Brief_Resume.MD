@@ -1,100 +1,114 @@
 # Filip Szalewicz
 
-- **LinkedIn**: [linkedin.com/in/fszalewicz](https://www.linkedin.com/in/fszalewicz/)
-- **Email**: [fszale@gmail.com](mailto:fszale@gmail.com)
+**Lead / Principal Software Engineer | Data Engineering & AI**\
+**LinkedIn**: [linkedin.com/in/fszalewicz](https://www.linkedin.com/in/fszalewicz/) | **Email**: [fszale@gmail.com](mailto:fszale@gmail.com)| **GitHub**: [github.com/fszale](https://github.com/fszale) | **Consulting**: [solidcage.com](https://www.solidcage.com)
+Macomb, MI | Open to Remote Work
 
-## VP of Engineering
+---
 
-### Key Capabilities:
-- **Team Building**: Constructed and scaled engineering teams from 2 to 50+ members
-- **Executive Partnership**: Advised C-level executives, enhancing strategic decisions
-- **Innovation**: Led development of 2+ groundbreaking products increasing company revenue by $10M+
-- **Optimization**: Reduced operational costs by 25% through process automation
-- **Organization**: Managed many complex projects, delivering major releases on time and budget
+## Summary
+Lead/Principal Software Engineer with 20+ years of experience in data-intensive systems, specializing in ETL pipelines, data lakes/warehouses, reporting platforms, and analytics solutions. Proven record of hands-on software development across cloud ecosystems (Azure, AWS, GCP) while leading and mentoring engineering teams. Architected systems that reduced costs by millions, cut reporting cycles from weeks to hours, and operationalized AI/ML pipelines at scale. Strong balance of technical leadership, solution architecture, and hands-on engineering in regulated industries including healthcare, fintech, and SaaS. 
 
-### Competencies:
-- **Agile & DevOps**: Implemented CI/CD pipelines, reducing deployment times by 75%+
-- **Cloud Architecture**: Certified AWS Architect & Developer, managed cloud migrations for 4+ companies
-- **Big Data & AI**: Engineered petabyte scale data lakes, data warehouse and ML solutions, costs saving $2M+ yearly
-- **Leadership**: Mentored 50+ engineers, accelerated may deliverables while improving team productivity
-- **Entrepreneurship**: Founder of a tech solution provider, serving 50+ clients
+---
 
-### Technical Skills:
-**Strong:**
-- **Languages**: Java, Python, Node.js, JavaScript, C#
-- **Cloud Services**: AWS (EC2, S3, Lambda, RDS), Google Cloud Platform (GCP) - BigQuery, Kubernetes
-- **Data Technologies**: SQL, NoSQL (MongoDB), Hadoop, Spark, Airflow, Big Data ETL
-- **Development**: Full Stack, MVC, RESTful APIs, Microservices, Serverless Architectures
-- **Practices**: Agile, Scrum, Test-Driven Development (TDD), Continuous Integration (CI), Continuous Deployment (CD)
-- **Tools**: Docker, Kubernetes, Terraform, Git, Jenkins, Ansible
+## Key Capabilities
+- **Data Engineering** – ETL/ELT pipelines, batch & streaming ingestion, Airflow, Spark, Data Fusion, Glue, Hadoop, Hive
+- **Data Warehousing & Lakes** – Petabyte-scale data lakes, BigQuery, Redshift, Cosmos DB, SQL Server, PostgreSQL, MongoDB
+- **Reporting & Analytic** – Tableau, Looker, Power BI, semantic layer design, KPI dashboards
+- **Programming & Frameworks** – Python, SQL, Java, C#, Node.js, JavaScript/TypeScript, .NET Core, REST, Pub/Sub
+- **Cloud & DevOps** – : Azure (Functions, Cosmos DB, DevOps), AWS (SageMaker, Lambda, Glue, S3), GCP (BigQuery, Vertex AI)
+- **Leadership** – Led teams of 5–50 engineers; enforced coding best practices, CI/CD pipelines, architecture reviews
+- **Healthcare & Compliance** – HIPAA, EDI 270/271/835/837, medical imaging (DICOM, SVS), healthcare SaaS systems
 
-**Knowledgeable:**
-- **Front-End**: React, Angular, Vue.js
-- **DevOps**: Linux, Bash scripting, Azure, Heroku
-- **Machine Learning**: VertexAI, TensorFlow, PyTorch, SageMaker
+---
 
-### Soft Skills:
-**Strong:**
-- **Leadership**: Directed cross-functional teams of up to 50+ members
-- **Communication**: Conducted over 100+ presentations to stakeholders, enhancing project buy-in
-- **Problem-Solving**: Developed solutions that cut down issue resolution time by 500%
-- **Project Management**: Managed many projects, delivered on or before deadline
-- **Data Analysis**: Developed many analytical projects, executive decision support systems and operational reporting
+## Professional Experience  
 
-**Knowledgeable:**
-- **Business Development**: Generated $1M+ in new business through strategic partnerships
+**Solid Cage Inc – Macomb, MI**  
+**Principal Consultant & SaaS Founder | 2009 – Present**  
+- Founded and scaled consultancy delivering 50+ SaaS and data engineering solutions with 95%+ client retention.
+- Architected PathGnos for Mayo Clinic — Azure-based digital pathology archive supporting DICOM/SVS formats, Cosmos DB storage, and CI/CD pipelines. Reduced downtime, enabled 24/7 availability.
+- Designed and deployed websites, web applications, data pipelines, data marts, and reporting dashboards for SMBs and enterprise clients.
+- Built and maintained **Data Reaktor (datareaktor.ai)**, a SaaS platform for AI-driven lead intelligence and outreach, integrating n8n, Grok, Gpt4o.
+- Mentored teams on cloud adoption, ETL best practices, and secure architectures.
 
-## Professional Experience:
+---
 
-**Shoptelligence, Ann Arbor, MI**  
-**Vice President of Engineering**  
-February 2022 - Present
-- Expanded platform capabilities by launching 2 new products, delivered 1M+ ARR
-- Implemented data lake, data warehouse, migrated analytics, reducing data retrieval time from 3+ weeks to 1 day
-- Cultivated a metrics-driven culture, reducing support tickets by 500%
-- Integrated Entrepreneurial Operating System (EOS), boosting company operational performance and achieving profitability in under 3 years
+**Shoptelligence – Ann Arbor, MI**  
+**Vice President of Engineering | 2022 – 2025**  
+- Architected 15+ TB data lake & warehouse, cutting analytics retrieval from 3+ weeks to 1 day.
+- Built ETL pipelines (Airflow, Spark, Data Fusion, BigQuery) that boosted integration speeds by 75% and supported $1M+ ARR growth.
+- Established data quality frameworks and CI/CD standards (GitLab), reducing support tickets by 500%.
+- Expanded omni-channel SaaS with recommender systems for personalized retail campaigns.
+- Mentored engineers, implemented EOS framework, and drove adoption of modern data-driven architecture.
 
-**West Monroe Partners, Chicago, IL**  
+---
+
+**West Monroe Partners – Chicago, IL | 2021 – 2022**  
 **Senior Architect**  
-September 2021 - February 2022
-- Advised 6+ clients on digital transformation, focusing on analytics and data management strategies, 115%+ utilization rate
+- Delivered data strategy and warehouse designs for private equity clients.
+- Trained consultants in SQL, Python, and data architecture best practices.
 
-**Rocket Mortgage, Detroit, MI**  
-**Team Leader Data Science**  
-Until August 2021  
-**Principal Software Engineer**  
-March 2019 - August 2021  
-**Senior Software Engineer**  
-March 2017 - March 2019  
-- Directed ML initiatives for Rocket companies, achieving a 10%+ increase in closed loan volume
-- Architected data platforms used by Rocket Mortgage and the sister companies, delivered $1M+ cost savings 
+---
 
-**360ofme Inc, Royal Oak, MI**  
-**CTO**  
-March 2016 - March 2017  
-- Developed security-focused data platform, showcased at Dreamforce 16 to 150K+ attendees
+**Rocket Mortgage (Quicken Loans) – Detroit, MI**  
+**Principal Engineer / Team Lead, Data Science | 2017 – 2021**  
+- Architected petabyte-scale data lake & ELT pipelines (AWS Glue, Spark, Cloudera), reducing annual costs by $1M+.
+- Led enterprise-wide data fabric & MDM integrations, improving compliance and boosting loan volume by 10%+.
+- Operationalized ML platforms on AWS (SageMaker, Lambda, Athena) for fraud detection and risk modeling.
+- Mentored 50+ engineers on ETL, Spark, AWS, and CI/CD practices; recognized with “Automate All the Things” award (2020).
 
-**Solid Cage Inc, Macomb, MI**  
-**Principal Software Engineer, Owner**  
-September 2009 - Present  
-- Sold and managed delivery for 50+ projects, achieving a 95% client revenue retention rate, 1M+ revenue
+---
 
-## Patents:
-- System, method, and apparatus for secure online transactions
-- Optical Disc design
+**360ofme Inc – Royal Oak, MI**  
+**CTO / Principal Engineer | 2016 – 2017**  
+- Designed high-volume SaaS platform (Node.js, MongoDB, Postgres, RabbitMQ) for secure personal data management.
+- Established CI/CD automation and real-time monitoring across AWS and Heroku environments.
 
-## Certifications:
-- Amazon Certified Associate Developer (03/2018)
-- Amazon Certified Associate Architect (04/2018)
-- Microsoft Certified Professional (05/2000)
+---
 
-## Education:
-- **University of Phoenix** - Information Systems Management 
-- **Oakland Community College** - Associate's Degree in Computer Information Systems
-- **Udemy, acloud.guru** - Courses in Cloud Computing, Docker, Kubernetes
+**Earlier Roles (1993 – 2016)**
+- Healthmaster Holdings – Built SaaS medical software for K-12 schools (student health tracking, diagnosis codes) and EDI medical billing systems (837/835/997).
+- imX Solutions – Lead developer for patented secure digital payments and authentication platform.
+- LogicaCMG & JDM Systems – Enterprise Architect delivering large-scale reporting & integration frameworks for global clients.
+- New Wave Software – Built ERP and plant floor reporting systems for steel industry.
 
-## Public Profiles:
-- **GitHub**: [github.com/fszale](https://github.com/fszale)
-- **Medium**: [medium.com/@filipszalewicz](https://medium.com/@filipszalewicz)
-- **YouTube**: [youtube.com/@Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome)
-- **Consulting**: [solidcage.com](http://www.solidcage.com)
+---
+
+## Technical Skills  
+
+**Languages:** Python, SQL, Java, JavaScript, Node.js, C#  
+**Cloud Platforms:** AWS (EC2, Glue, S3, Lambda, SageMaker, Athena, Quicksight), GCP (BigQuery, Data Fusion, Vertex AI, Airflow, Looker, Kubernetes), Azure (Cosmos DB, Web Apps)  
+**Data Technologies:** Data Lakes, Data Warehousing, ELT/ETL (Airflow, Data Fusion, Spark), Hadoop, Hive, NoSQL (MongoDB, PostgreSQL, DynamoDB), SQL Server, MySQL  
+**DevOps & Tools:** Git, Jenkins, GitLab, Docker, Kubernetes, Terraform, Maven, CircleCI, Azure DevOps, TDD, Agile/Scrum  
+**Analytics & BI:** Tableau, Looker Studio, Power BI, semantic layer design  
+**AI/ML:** AutoML, H2O, SageMaker, Vertex AI, ML pipelines at scale  
+**Compliance:** HIPAA, CCPA, GDPR-aligned data practices  
+
+---
+
+## Patents  
+- [System, Method, and Apparatus for Conducting Secure Online Monetary Transactions](https://patents.google.com/?inventor=Filip+Szalewicz)  
+- [Optical Disc Design Patent](https://patents.google.com/patent/USD574006S1)  
+
+---
+
+## Certifications  
+- AWS Certified Associate Developer (2018)  
+- AWS Certified Solutions Architect Associate (2018)  
+- Microsoft Certified Professional: Requirements & Solution Architecture (2000)  
+
+---
+
+## Education  
+- **University of Phoenix** - Bachelor’s in Information Systems Management (incomplete)  
+- **Oakland Community College** - Associate’s in Computer Information Systems  
+- Ongoing Professional Development - Udemy, acloud.guru (Cloud, ML, Data Engineering)  
+
+---
+
+## Public
+- Github Profile: [https://github.com/fszale](https://github.com/fszale)
+- Published Thoughts : [https://medium.com/@filipszalewicz](https://medium.com/@filipszalewicz)
+- YouTube Channel: [https://www.youtube.com/@Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome)
+- Consulting Business: [https://www.solidcage.com](http://www.solidcage.com)

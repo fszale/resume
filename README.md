@@ -1,74 +1,77 @@
 # Filip Szalewicz
 
-**Principal Software Engineer | Data Architecture & AI Leader**\
+**Lead / Principal Software Engineer | Data Engineering & AI**\
 **LinkedIn**: [linkedin.com/in/fszalewicz](https://www.linkedin.com/in/fszalewicz/) | **Email**: [fszale@gmail.com](mailto:fszale@gmail.com)| **GitHub**: [github.com/fszale](https://github.com/fszale) | **Consulting**: [solidcage.com](https://www.solidcage.com)
 Macomb, MI | Open to Remote Work
 
 ---
 
 ## Summary
-Software engineering leader with 20+ years of experience, including 9+ years in senior roles, architecting secure, scalable platforms for SaaS, fintech, and regulated industries. Expert in cloud data lakes, ELT pipelines, and data driven solutions that reduced costs by $2M+ annually and generated $10M+ in new revenue. Skilled in GCP, AWS, SQL, Python, Spark, and big data ecosystems. Proven record of building and mentoring teams of 50+ engineers, ensuring compliance (HIPAA, CCPA), and delivering enterprise-scale analytics in weeks instead of months. Passionate about pragmatic AI adoption to drive business growth.  
+Lead/Principal Software Engineer with 20+ years of experience in data-intensive systems, specializing in ETL pipelines, data lakes/warehouses, reporting platforms, and analytics solutions. Proven record of hands-on software development across cloud ecosystems (Azure, AWS, GCP) while leading and mentoring engineering teams. Architected systems that reduced costs by millions, cut reporting cycles from weeks to hours, and operationalized AI/ML pipelines at scale. Strong balance of technical leadership, solution architecture, and hands-on engineering in regulated industries including healthcare, fintech, and SaaS. 
 
 ---
 
 ## Key Capabilities
-- **Data Architecture Leadership** – Designed petabyte-scale data lakes & warehouses; reduced retrieval cycles from weeks to days.  
-- **Data Governance & Compliance** – Delivered secure solutions meeting HIPAA, CCPA, and enterprise-grade privacy standards.  
-- **Cloud & Big Data Expertise** – Led GCP/AWS migrations; optimized spend by 25%+; deployed ML for predictive analytics.  
-- **Engineering Leadership** – Directed and mentored 50+ engineers; built agile/DevOps practices accelerating delivery.  
-- **Innovation & Industry Presence** – Presented at Dreamforce & O’Reilly AI; launched SaaS solutions showcased to 150K+ attendees.  
+- **Data Engineering** – ETL/ELT pipelines, batch & streaming ingestion, Airflow, Spark, Data Fusion, Glue, Hadoop, Hive
+- **Data Warehousing & Lakes** – Petabyte-scale data lakes, BigQuery, Redshift, Cosmos DB, SQL Server, PostgreSQL, MongoDB
+- **Reporting & Analytic** – Tableau, Looker, Power BI, semantic layer design, KPI dashboards
+- **Programming & Frameworks** – Python, SQL, Java, C#, Node.js, JavaScript/TypeScript, .NET Core, REST, Pub/Sub
+- **Cloud & DevOps** – : Azure (Functions, Cosmos DB, DevOps), AWS (SageMaker, Lambda, Glue, S3), GCP (BigQuery, Vertex AI)
+- **Leadership** – Led teams of 5–50 engineers; enforced coding best practices, CI/CD pipelines, architecture reviews
+- **Healthcare & Compliance** – HIPAA, EDI 270/271/835/837, medical imaging (DICOM, SVS), healthcare SaaS systems
 
 ---
 
 ## Professional Experience  
 
 **Solid Cage Inc – Macomb, MI**  
-**Principal Consultant & SaaS Founder**  
-*Sep 2009 – Present*  
-- Delivered 50+ SaaS/data-driven solutions for small & mid-sized businesses; achieved 95%+ client retention.  
-- Built and maintained **Data Reaktor (datareaktor.ai)**, a SaaS platform for AI-driven lead intelligence and personalized outreach, overseeing both engineering (data pipelines, automation) and business development (go-to-market, acquisition).  
-- Architected and scaled analytics/data pipelines using Python, Airflow, GCP (BigQuery, Data Fusion, Vertex AI), AWS, and Azure.  
-- Designed a large image catalog system for Mayo Clinic on Azure, driving $1M+ revenue.  
-- Focus Areas: AI-driven outreach, workflow automation, analytics platforms, SaaS architecture.  
+**Principal Consultant & SaaS Founder | 2009 – Present**  
+- Founded and scaled consultancy delivering 50+ SaaS and data engineering solutions with 95%+ client retention.
+- Architected PathGnos for Mayo Clinic — Azure-based digital pathology archive supporting DICOM/SVS formats, Cosmos DB storage, and CI/CD pipelines. Reduced downtime, enabled 24/7 availability.
+- Designed and deployed websites, web applications, data pipelines, data marts, and reporting dashboards for SMBs and enterprise clients.
+- Built and maintained **Data Reaktor (datareaktor.ai)**, a SaaS platform for AI-driven lead intelligence and outreach, integrating n8n, Grok, Gpt4o.
+- Mentored teams on cloud adoption, ETL best practices, and secure architectures.
 
 ---
 
 **Shoptelligence – Ann Arbor, MI**  
-**Vice President of Engineering**  
-*Feb 2022 – Aug 2025*  
-- Architected **15+ TB data lake & warehouse**, cutting analytics retrieval from 3+ weeks to 1 day.  
-- Built ELT pipelines (Airflow, Spark, Data Fusion, BigQuery) boosting data integration by 75% and supporting $1M+ ARR growth.  
-- Established data quality/CI-CD standards (GitLab) reducing support tickets by 500%.  
-- Expanded omni-channel SaaS with recommender systems for digital/in-store campaigns.  
-- Mentored 5 engineers, implemented EOS framework, achieved profitability in <3 years.  
+**Vice President of Engineering | 2022 – 2025**  
+- Architected 15+ TB data lake & warehouse, cutting analytics retrieval from 3+ weeks to 1 day.
+- Built ETL pipelines (Airflow, Spark, Data Fusion, BigQuery) that boosted integration speeds by 75% and supported $1M+ ARR growth.
+- Established data quality frameworks and CI/CD standards (GitLab), reducing support tickets by 500%.
+- Expanded omni-channel SaaS with recommender systems for personalized retail campaigns.
+- Mentored engineers, implemented EOS framework, and drove adoption of modern data-driven architecture.
 
 ---
 
-**West Monroe Partners – Chicago, IL**  
+**West Monroe Partners – Chicago, IL | 2021 – 2022**  
 **Senior Architect**  
-*Sep 2021 – Feb 2022*  
-- Delivered data strategy for 6+ private equity clients, designing lakes/warehouses aligned to regulated standards.  
-- Created MDM and advanced analytics frameworks, ensuring compliance and scalability.  
-- Achieved 115% utilization; coached consultants in SQL, Python, cloud architecture.  
+- Delivered data strategy and warehouse designs for private equity clients.
+- Trained consultants in SQL, Python, and data architecture best practices.
 
 ---
 
 **Rocket Mortgage (Quicken Loans) – Detroit, MI**  
-**Team Leader, Data Science / Principal Engineer / Senior Engineer**  
-*Mar 2017 – Aug 2021*  
-- Architected **petabyte-scale data lake & ELT pipelines** (AWS Glue, Spark, Cloudera), cutting costs by $1M+.  
-- Led enterprise **data fabric & MDM integrations**, boosting compliance and loan volume 10%+.  
-- Operationalized ML platforms on AWS (SageMaker, Lambda, Athena).  
-- Mentored **50+ engineers** on Spark, AWS, CI/CD; awarded “Automate All the Things” (2020).  
+**Principal Engineer / Team Lead, Data Science | 2017 – 2021**  
+- Architected petabyte-scale data lake & ELT pipelines (AWS Glue, Spark, Cloudera), reducing annual costs by $1M+.
+- Led enterprise-wide data fabric & MDM integrations, improving compliance and boosting loan volume by 10%+.
+- Operationalized ML platforms on AWS (SageMaker, Lambda, Athena) for fraud detection and risk modeling.
+- Mentored 50+ engineers on ETL, Spark, AWS, and CI/CD practices; recognized with “Automate All the Things” award (2020).
 
 ---
 
 **360ofme Inc – Royal Oak, MI**  
-**Chief Technology Officer**  
-*Mar 2016 – Mar 2017*  
-- Built a secure data platform with REST APIs, MongoDB, PostgreSQL; demoed at **Dreamforce 2016**.  
-- Integrated AWS, Salesforce, IBM Watson APIs; ensured HIPAA-aligned privacy.  
-- Managed offshore teams; implemented CI/CD, real-time security monitoring, and unit-tested delivery.  
+**CTO / Principal Engineer | 2016 – 2017**  
+- Designed high-volume SaaS platform (Node.js, MongoDB, Postgres, RabbitMQ) for secure personal data management.
+- Established CI/CD automation and real-time monitoring across AWS and Heroku environments.
+
+---
+
+**Earlier Roles (1993 – 2016)**
+- Healthmaster Holdings – Built SaaS medical software for K-12 schools (student health tracking, diagnosis codes) and EDI medical billing systems (837/835/997).
+- imX Solutions – Lead developer for patented secure digital payments and authentication platform.
+- LogicaCMG & JDM Systems – Enterprise Architect delivering large-scale reporting & integration frameworks for global clients.
+- New Wave Software – Built ERP and plant floor reporting systems for steel industry.
 
 ---
 
