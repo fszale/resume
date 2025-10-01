@@ -16,7 +16,7 @@ Lead/Principal Software Engineer with 20+ years of experience in data-intensive 
 - **Data Warehousing & Lakes** – Petabyte-scale data lakes, BigQuery, Redshift, Cosmos DB, SQL Server, PostgreSQL, MongoDB
 - **Reporting & Analytic** – Tableau, Looker, Power BI, semantic layer design, KPI dashboards
 - **Programming & Frameworks** – Python, SQL, Java, C#, Node.js, JavaScript/TypeScript, .NET Core, REST, Pub/Sub
-- **Cloud & DevOps** – : Azure (Functions, Cosmos DB, DevOps), AWS (SageMaker, Lambda, Glue, S3), GCP (BigQuery, Vertex AI)
+- **Cloud & DevOps** – : Azure (Functions, Cosmos DB, DevOps), AWS (SageMaker, Lambda, Glue, S3), GCP (BigQuery, Vertex AI), Kubernetes, Docker
 - **Leadership** – Led teams of 5–50 engineers; enforced coding best practices, CI/CD pipelines, architecture reviews
 - **Healthcare & Compliance** – HIPAA, EDI 270/271/835/837, medical imaging (DICOM, SVS), healthcare SaaS systems
 
