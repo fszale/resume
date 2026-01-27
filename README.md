@@ -28,9 +28,9 @@ Lead/Principal Software Engineer with 20+ years of experience in data-intensive 
 **Solid Cage Inc – Macomb, MI**  
 **Principal Consultant & SaaS Founder | 2009 – Present**  
 - Founded and scaled consultancy delivering 50+ SaaS and data engineering solutions with 95%+ client retention.
-- Built **vizly.ai (vizly.ai)**, an enterprise GenAI SaaS data product, achieving **record time-to-market** through rapid prototyping and engineering excellence.
+- Built **[vizly.ai](https://www.vizly.ai)**, an enterprise GenAI SaaS data product, achieving **record time-to-market** through rapid prototyping and engineering excellence.
 - Architected PathGnos for Mayo Clinic — Azure-based digital pathology archive supporting DICOM/SVS formats, Cosmos DB storage, and CI/CD pipelines. Reduced downtime, enabled 24/7 availability.
-- Built and maintained **Data Reaktor (www.datareaktor.ai)**, a SaaS platform for AI-driven lead intelligence and outreach, integrating n8n, Grok, Gpt4o.
+- Built and maintained **[Data Reaktor](https://www.datareaktor.ai)**, a SaaS platform for AI-driven lead intelligence and outreach, integrating n8n, Grok, Gpt4o.
 - Designed and deployed websites, web applications, data pipelines, data marts, and reporting dashboards for SMBs and enterprise clients.
 - Mentored teams on cloud adoption, ETL best practices, and secure architectures.
 
