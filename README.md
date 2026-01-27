@@ -7,11 +7,12 @@ Macomb, MI | Open to Remote Work
 ---
 
 ## Summary
-Lead/Principal Software Engineer with 20+ years of experience in data-intensive systems, specializing in ETL pipelines, data lakes/warehouses, reporting platforms, and analytics solutions. Proven record of hands-on software development across cloud ecosystems (Azure, AWS, GCP) while leading and mentoring engineering teams. Architected systems that reduced costs by millions, cut reporting cycles from weeks to hours, and operationalized AI/ML pipelines at scale. Strong balance of technical leadership, solution architecture, and hands-on engineering in regulated industries including healthcare, fintech, and SaaS. 
+Lead/Principal Software Engineer with 20+ years of experience in data-intensive systems, specializing in ETL pipelines, data lakes/warehouses, reporting platforms, and analytics solutions. Proven record of hands-on software development across cloud ecosystems (Azure, AWS, GCP) while leading and mentoring engineering teams. Architected systems that reduced costs by millions, cut reporting cycles from weeks to hours, and operationalized AI/ML pipelines at scale. **Known for high-velocity execution, delivering rapid engineering results, and shipping products at record speeds.** Strong balance of technical leadership, solution architecture, and hands-on engineering in regulated industries including healthcare, fintech, and SaaS. 
 
 ---
 
 ## Key Capabilities
+- **Generative AI & LLMs** – OpenAI, Anthropic, Antigravity, AI Agents  
 - **Data Engineering** – ETL/ELT pipelines, batch & streaming ingestion, Airflow, Spark, Data Fusion, Glue, Hadoop, Hive
 - **Data Warehousing & Lakes** – Petabyte-scale data lakes, BigQuery, Redshift, Cosmos DB, SQL Server, PostgreSQL, MongoDB
 - **Reporting & Analytic** – Tableau, Looker, Power BI, semantic layer design, KPI dashboards
@@ -27,9 +28,10 @@ Lead/Principal Software Engineer with 20+ years of experience in data-intensive 
 **Solid Cage Inc – Macomb, MI**  
 **Principal Consultant & SaaS Founder | 2009 – Present**  
 - Founded and scaled consultancy delivering 50+ SaaS and data engineering solutions with 95%+ client retention.
+- Built **vizly.ai**, an enterprise GenAI SaaS data product, achieving **record time-to-market** through rapid prototyping and engineering excellence.
 - Architected PathGnos for Mayo Clinic — Azure-based digital pathology archive supporting DICOM/SVS formats, Cosmos DB storage, and CI/CD pipelines. Reduced downtime, enabled 24/7 availability.
-- Designed and deployed websites, web applications, data pipelines, data marts, and reporting dashboards for SMBs and enterprise clients.
 - Built and maintained **Data Reaktor (www.datareaktor.ai)**, a SaaS platform for AI-driven lead intelligence and outreach, integrating n8n, Grok, Gpt4o.
+- Designed and deployed websites, web applications, data pipelines, data marts, and reporting dashboards for SMBs and enterprise clients.
 - Mentored teams on cloud adoption, ETL best practices, and secure architectures.
 
 ---
@@ -77,7 +79,8 @@ Lead/Principal Software Engineer with 20+ years of experience in data-intensive 
 
 ## Technical Skills  
 
-**Languages:** Python, SQL, Java, JavaScript, Node.js, C#  
+**Languages & Frameworks:** Python, SQL, Java, Node.js, Next.js, TypeScript, JavaScript, C#  
+**Generative AI & LLMs:** OpenAI, Anthropic, Antigravity, LLMs, AI Agents  
 **Cloud Platforms:** AWS (EC2, Glue, S3, Lambda, SageMaker, Athena, Quicksight), GCP (BigQuery, Data Fusion, Vertex AI, Airflow, Looker, Kubernetes), Azure (Cosmos DB, Web Apps)  
 **Data Technologies:** Data Lakes, Data Warehousing, ELT/ETL (Airflow, Data Fusion, Spark), Hadoop, Hive, NoSQL (MongoDB, PostgreSQL, DynamoDB), SQL Server, MySQL  
 **DevOps & Tools:** Git, Jenkins, GitLab, Docker, Kubernetes, Terraform, Maven, CircleCI, Azure DevOps, TDD, Agile/Scrum  

@@ -7,15 +7,16 @@ Macomb, MI | Open to Remote Work
 ---
 
 ## Summary  
-Lead/Principal Software Engineer with 20+ years in data-intensive systems. Deep expertise in ETL pipelines, data lakes/warehouses, and operationalizing AI/ML platforms. Proven track record of reducing costs by millions, cutting reporting cycles from weeks to hours, and scaling cloud solutions (AWS, GCP, Azure). Experienced leader who has mentored and directed teams of up to 50 engineers across healthcare, fintech, and SaaS.  
+Lead/Principal Software Engineer with 20+ years in data-intensive systems. Deep expertise in ETL pipelines, data lakes/warehouses, and operationalizing AI/ML platforms. Proven track record of reducing costs by millions, cutting reporting cycles from weeks to hours, and scaling cloud solutions (AWS, GCP, Azure). Known for **high-velocity execution**, delivering immediate results, and driving rapid engineering outcomes. Experienced leader who has mentored and directed teams of up to 50 engineers across healthcare, fintech, and SaaS.  
 
 ---
 
 ## Core Competencies  
 - **Data Engineering** – ETL/ELT, Spark, Airflow, Data Fusion, Glue, Hadoop  
+- **Generative AI & LLMs** – OpenAI, Anthropic, Antigravity, AI Agents  
 - **Cloud & DevOps** – AWS (SageMaker, Glue, Lambda), GCP (BigQuery, Vertex AI), Azure (Cosmos DB, Functions)  
 - **Data Lakes/Warehousing** – BigQuery, Redshift, Cosmos DB, SQL Server, PostgreSQL, MongoDB  
-- **Programming** – Python, SQL, Java, Node.js, TypeScript, C#  
+- **Programming** – Python, SQL, Java, Node.js, Next.js, TypeScript, C#  
 - **Analytics & BI** – Tableau, Looker, Power BI, KPI dashboards  
 - **Leadership & Compliance** – Team building, CI/CD, HIPAA, EDI, DICOM  
 
@@ -25,7 +26,8 @@ Lead/Principal Software Engineer with 20+ years in data-intensive systems. Deep 
 
 **Solid Cage Inc. – Principal Consultant & SaaS Founder** (2009 – Present)  
 - Delivered 50+ SaaS and data solutions (95%+ retention).  
-- Architected *PathGnos* for Mayo Clinic (Azure-based pathology archive).  
+- Built **vizly.ai**, a GenAI SaaS product for enterprises, achieving **record time-to-market**.  
+- Built *PathGnos* for Mayo Clinic (Azure-based pathology archive).  
 - Built **DataReaktor.ai**, an AI-driven lead intelligence platform.  
 - Mentored teams on ETL best practices and secure architectures.  
 
