@@ -1,61 +1,66 @@
 # Filip Szalewicz
 
-**Lead / Principal Software Engineer | Data Engineering & AI**\
-**LinkedIn**: [linkedin.com/in/fszalewicz](https://www.linkedin.com/in/fszalewicz/) | **Email**: [fszale@gmail.com](mailto:fszale@gmail.com)| **GitHub**: [github.com/fszale](https://github.com/fszale) | **Consulting**: [solidcage.com](https://www.solidcage.com)
+**Principal Engineer / Fractional CTO | Agentic AI, Digital Twins, Multi-Agent Systems**\
+**LinkedIn**: [linkedin.com/in/fszalewicz](https://www.linkedin.com/in/fszalewicz/) | **Email**: [fszale@gmail.com](mailto:fszale@gmail.com) | **GitHub**: [github.com/fszale](https://github.com/fszale) | **Consulting**: [solidcage.com](https://www.solidcage.com)
 Macomb, MI | Open to Remote Work
 
 ---
 
-## Summary  
-Lead/Principal Software Engineer with 20+ years in data-intensive systems. Deep expertise in ETL pipelines, data lakes/warehouses, and operationalizing AI/ML platforms. Proven track record of reducing costs by millions, cutting reporting cycles from weeks to hours, and scaling cloud solutions (AWS, GCP, Azure). Known for **high-velocity execution**, delivering immediate results, and driving rapid engineering outcomes. Experienced leader who has mentored and directed teams of up to 50 engineers across healthcare, fintech, and SaaS.  
+## Summary
+Principal engineer and Fractional CTO with 20+ years of experience building SaaS platforms, data systems, AI products, and cloud infrastructure. Current focus is agentic-first transformation: designing digital twins, multi-agent systems, and Agentic OS patterns that help organizations adopt AI directly inside active delivery workflows. Partner with executive leadership, technical leaders, and engineering teams to train AI best practices, implement governance and human-in-the-loop controls, and accelerate measurable outcomes across product and operations. Recent work includes organizational transformation for a 150-person technology company, agent-powered SaaS for data analysis and lead intelligence, and delivery acceleration such as compressing the timeline for **[vizly.ai](https://www.vizly.ai)** from 9 months to 3 months.
 
 ---
 
-## Core Competencies  
-- **Data Engineering** – ETL/ELT, Spark, Airflow, Data Fusion, Glue, Hadoop  
-- **Generative AI & LLMs** – OpenAI, Anthropic, Antigravity, AI Agents  
-- **Cloud & DevOps** – AWS (SageMaker, Glue, Lambda), GCP (BigQuery, Vertex AI), Azure (Cosmos DB, Functions)  
-- **Data Lakes/Warehousing** – BigQuery, Redshift, Cosmos DB, SQL Server, PostgreSQL, MongoDB  
-- **Programming** – Python, SQL, Java, Node.js, Next.js, TypeScript, C#  
-- **Analytics & BI** – Tableau, Looker, Power BI, KPI dashboards  
-- **Leadership & Compliance** – Team building, CI/CD, HIPAA, EDI, DICOM  
+## Core Competencies
+- **Agentic AI Strategy & Transformation** - AI adoption strategy, operating models, organizational change, delivery acceleration
+- **Digital Twins & Multi-Agent Systems** - twin design, agent factories, agent orchestration, context design, workflow decomposition
+- **Agentic OS & Workflow Automation** - ecommerce and business workflow automation, human-in-the-loop approvals, guardrails, self-improvement loops
+- **Agent-Powered SaaS & Data Products** - AI-assisted analytics, exploration, lead intelligence, signal enrichment
+- **AI Governance & Evaluation** - approval flows, auditability, guardrails, feedback loops, measurable outcomes
+- **Cloud Runtime Engineering** - Python, FastAPI, Node.js, Next.js, Supabase, Docker, Kubernetes, Cloud Run, AWS, GCP, Azure
 
 ---
 
-## Professional Experience  
+## Professional Experience
 
-**Solid Cage Inc. – Principal Consultant & SaaS Founder** (2009 – Present)  
-- Delivered 50+ SaaS and data solutions (95%+ retention).  
-- Built **vizly.ai**, a GenAI SaaS product for enterprises, achieving **record time-to-market**.  
-- Built *PathGnos* for Mayo Clinic (Azure-based pathology archive).  
-- Built **DataReaktor.ai**, an AI-driven lead intelligence platform.  
-- Mentored teams on ETL best practices and secure architectures.  
+**Solid Cage Inc - Macomb, MI**\
+**Principal Consultant, Fractional CTO & SaaS Founder | 2009 - Present**
+- Lead agentic-first transformation programs for multiple clients, including a 150-person technology company, partnering with executive leadership, technical leaders, and engineering staff to accelerate AI adoption across the organization.
+- Train leaders and delivery teams on practical AI best practices, workflow redesign, and operating models that embed AI directly into projects already in flight instead of isolated experiments.
+- Drive development and adoption of digital twins in preparation for agent factory deployment, defining roles, context, guardrails, and governance patterns for production use.
+- Architect Agentic OS patterns for end-to-end ecommerce workflow automation using human-in-the-loop approvals, guardrails, structured context, and self-improvement loops.
+- Work as a change agent across multiple businesses, helping teams rapidly adopt AI in ways that increase throughput, compress delivery cycles, and create visible product outcomes.
+- Founded and scaled consultancy delivering 50+ SaaS, data, and analytics solutions with 95%+ client retention.
 
-**Shoptelligence – VP of Engineering** (2022 – 2025)  
-- Built 15+ TB data lake; reduced analytics from 3 weeks → 1 day.  
-- Designed ETL pipelines boosting integration speeds 75%, driving $1M+ ARR growth.  
-- Established CI/CD and data quality frameworks, cutting support tickets 500%.  
+**Shoptelligence - Ann Arbor, MI**\
+**Vice President of Engineering | 2022 - 2025**
+- Architected a 15+ TB data lake and warehouse platform, reducing analytics retrieval from 3+ weeks to 1 day.
+- Built ETL pipelines with Airflow, Spark, Data Fusion, and BigQuery, boosting integration speed by 75% and supporting $1M+ ARR growth.
+- Established data quality standards and CI/CD practices that reduced support tickets by 500%.
 
-**Rocket Mortgage – Principal Engineer / Team Lead** (2017 – 2021)  
-- Architected AWS-based petabyte data lake, saving $1M+ annually.  
-- Operationalized ML fraud detection/risk models (SageMaker, Lambda).  
-- Mentored 50+ engineers; earned “Automate All the Things” award.  
+**Rocket Mortgage (Quicken Loans) - Detroit, MI**\
+**Principal Engineer / Team Lead, Data Science | 2017 - 2021**
+- Architected a petabyte-scale data lake and ELT platform using AWS Glue, Spark, and Cloudera, reducing annual cost by more than $1M.
+- Led enterprise data fabric and MDM integrations that improved compliance and increased loan volume by 10%+.
+- Operationalized ML platforms on AWS using SageMaker, Lambda, and Athena for fraud detection and risk modeling.
 
-**West Monroe Partners – Senior Architect** (2021 – 2022)  
-**360ofme – CTO / Principal Engineer** (2016 – 2017)  
-**Earlier Roles:** Healthcare SaaS, secure payments, ERP/reporting systems.  
+West Monroe Partners - Senior Architect (2021 - 2022)\
+360ofme Inc - CTO / Principal Engineer (2016 - 2017)\
+Earlier Roles: Healthcare SaaS, secure payments, enterprise reporting, integration frameworks, ERP, and industrial systems.
 
 ---
 
-## Education & Certifications  
-- A.A.S. Computer Information Systems – Oakland Community College  
-- B.S. (in progress), Info Systems Mgmt – Univ. of Phoenix  
-- AWS Solutions Architect & Developer | Microsoft Certified Professional  
+## Education & Certifications
+- **Oakland Community College** - Associate's in Computer Information Systems
+- **University of Phoenix** - Information Systems Management coursework
+- AWS Certified Developer - Associate (2018)
+- AWS Certified Solutions Architect - Associate (2018)
+- Microsoft Certified Professional: Requirements & Solution Architecture (2000)
 
 ---
 
 ## Public
-- Github Profile: [https://github.com/fszale](https://github.com/fszale)
-- Published Thoughts : [https://medium.com/@filipszalewicz](https://medium.com/@filipszalewicz)
-- YouTube Channel: [https://www.youtube.com/@Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome)
-- Consulting Business: [https://www.solidcage.com](http://www.solidcage.com)
+- GitHub: [https://github.com/fszale](https://github.com/fszale)
+- LinkedIn: [https://www.linkedin.com/in/fszalewicz/](https://www.linkedin.com/in/fszalewicz/)
+- YouTube: [https://www.youtube.com/@Control-The-Outcome](https://www.youtube.com/@Control-The-Outcome)
+- Solid Cage: [https://www.solidcage.com](https://www.solidcage.com)
