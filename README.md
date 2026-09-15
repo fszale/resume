@@ -7,7 +7,7 @@ Macomb, MI | Open to Remote Work
 ---
 
 ## Summary
-Principal engineer and Fractional CTO with 20+ years of experience building SaaS platforms, data systems, AI products, and cloud infrastructure. Current focus is agentic-first transformation: designing digital twins, multi-agent systems, and Agentic OS patterns that help organizations adopt AI directly inside active delivery workflows. Partner with executive leadership, technical leaders, and engineering teams to train AI best practices, implement governance and human-in-the-loop controls, and accelerate measurable outcomes across product and operations. Recent work includes organizational transformation for a 150-person technology company, agent-powered SaaS for data analysis and lead intelligence, and delivery acceleration such as compressing the timeline for **[vizly.ai](https://www.vizly.ai)** from 9 months to 3 months.
+Principal engineer and Fractional CTO with 20+ years of experience building SaaS platforms, data systems, AI products, and cloud infrastructure. Current focus is agentic-first transformation: designing digital twins, multi-agent systems, and Agentic OS patterns that help organizations adopt AI directly inside active delivery workflows. Partner with executive leadership, technical leaders, and engineering teams to train AI best practices, implement governance and human-in-the-loop controls, and accelerate measurable outcomes across product and operations. Recent work includes organizational transformation for a 150-person technology company; agent-powered SaaS products such as **[vizly.ai](https://www.vizly.ai)** v2, **[LookingGlass Lifestyle](https://lookingglasslifestyle.com/)** v2 (web and iOS), and **[Data Reaktor](https://www.datareaktor.ai)** that use AI LLMs for data analysis, image processing, enrichment, and classification; and delivery acceleration such as compressing the vizly.ai timeline from 9 months to 3 months.
 
 ---
 
@@ -15,7 +15,7 @@ Principal engineer and Fractional CTO with 20+ years of experience building SaaS
 - **Agentic AI Strategy & Transformation** - AI adoption strategy, operating models, organizational change, delivery acceleration
 - **Digital Twins & Multi-Agent Systems** - twin design, agent factories, agent orchestration, context design, workflow decomposition
 - **Agentic OS & Workflow Automation** - ecommerce and business workflow automation, human-in-the-loop approvals, guardrails, self-improvement loops
-- **Agent-Powered SaaS & Data Products** - AI-assisted analytics, exploration, lead intelligence, signal enrichment
+- **Agent-Powered SaaS & Data Products** - AI-assisted analytics, image processing, lead intelligence, big-data enrichment and classification
 - **AI Governance & Evaluation** - approval flows, auditability, guardrails, feedback loops, measurable outcomes
 - **Cloud Runtime Engineering** - Python, FastAPI, Node.js, Next.js, Supabase, Docker, Kubernetes, Cloud Run, AWS, GCP, Azure
 - **Data & ML Platforms** - ETL/ELT, Airflow, Spark, BigQuery, SageMaker, data lakes, warehouses, reporting, analytics
@@ -33,7 +33,7 @@ Principal engineer and Fractional CTO with 20+ years of experience building SaaS
 - Architect Agentic OS patterns for end-to-end ecommerce workflow automation using human-in-the-loop approvals, guardrails, structured context, and self-improvement loops.
 - Work as a change agent across multiple businesses, helping teams rapidly adopt AI in ways that increase throughput, compress delivery cycles, and create visible product outcomes.
 - Built and open-sourced reusable agentic infrastructure and adoption assets, including **[agent-kernel](https://github.com/fszale/agent-kernel)**, **[agent-factory](https://github.com/fszale/agent-factory)**, **[agentic-playbook](https://github.com/fszale/agentic-playbook)**, and **[operational-intelligence-lab](https://github.com/fszale/operational-intelligence-lab)**.
-- Built and advised on agent-powered SaaS products including **[vizly.ai](https://www.vizly.ai)** and **[Data Reaktor](https://www.datareaktor.ai)**, including compressing the vizly.ai delivery timeline from 9 months to 3 months.
+- Built and advised on agent-powered SaaS products including **[vizly.ai](https://www.vizly.ai)** v2, **[LookingGlass Lifestyle](https://lookingglasslifestyle.com/)** v2 (web and iOS applications), and **[Data Reaktor](https://www.datareaktor.ai)**, using AI LLMs for data analysis, image processing, big-data enrichment and classification, and related production workloads; compressed the vizly.ai delivery timeline from 9 months to 3 months.
 
 **Solid Cage Inc - Macomb, MI**\
 **Principal Consultant & SaaS Founder | 2009 - 2023**
