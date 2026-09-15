@@ -3,7 +3,7 @@
 #header("Filip Szalewicz", "Principal Engineer / Fractional CTO | Agentic AI, Digital Twins, Multi-Agent Systems", [Macomb, MI | Open to Remote Work | linkedin.com/in/fszalewicz | fszale\@gmail.com | github.com/fszale | solidcage.com])
 
 #section("Summary", [
-  Principal engineer and Fractional CTO with 20+ years of experience building SaaS platforms, data systems, AI products, and cloud infrastructure. Current focus is agentic-first transformation: designing digital twins, multi-agent systems, and Agentic OS patterns that help organizations adopt AI directly inside active delivery workflows. Partner with executive leadership, technical leaders, and engineering teams to train AI best practices, implement governance and human-in-the-loop controls, and accelerate measurable outcomes across product and operations. Recent work includes organizational transformation for a 150-person technology company; agent-powered SaaS products such as vizly.ai v2, LookingGlass Lifestyle v2 (web and iOS), and Data Reaktor that use AI LLMs for data analysis, image processing, enrichment, and classification; and delivery acceleration such as compressing the vizly.ai timeline from 9 months to 3 months.
+  Principal engineer and Fractional CTO with 20+ years of experience building SaaS platforms, data systems, AI products, and cloud infrastructure. Current focus is agentic-first transformation: designing digital twins, multi-agent systems, and Agentic OS patterns that help organizations adopt AI directly inside active delivery workflows. Partner with executive leadership, technical leaders, and engineering teams to train AI best practices, implement governance and human-in-the-loop controls, and accelerate measurable outcomes across product and operations. Recent work includes organizational transformation for a 150-person technology company; agent-powered SaaS products such as vizly.ai v2, LookingGlass Lifestyle v2 (web and iOS), and Data Reaktor that use AI LLMs for data analysis, image processing, enrichment, and classification; and acting as an agent of change driving AI-first enablement and adoption across client organizations.
 ])
 
 #section("Core Competencies", [
@@ -30,9 +30,9 @@
       [Train leaders and delivery teams on practical AI best practices, workflow redesign, and operating models that embed AI directly into projects already in flight instead of isolated experiments.],
       [Drive development and adoption of digital twins in preparation for agent factory deployment, defining roles, context, guardrails, and governance patterns for production use.],
       [Architect Agentic OS patterns for end-to-end ecommerce workflow automation using human-in-the-loop approvals, guardrails, structured context, and self-improvement loops.],
-      [Work as a change agent across multiple businesses, helping teams rapidly adopt AI in ways that increase throughput, compress delivery cycles, and create visible product outcomes.],
+      [Act as an agent of change driving AI-first enablement and adoption across client organizations, helping teams embed AI into live delivery so throughput and product outcomes improve.],
       [Built and open-sourced reusable agentic infrastructure and adoption assets, including agent-kernel, agent-factory, agentic-playbook, and operational-intelligence-lab.],
-      [Built and advised on agent-powered SaaS products including vizly.ai v2, LookingGlass Lifestyle v2 (web and iOS applications), and Data Reaktor, using AI LLMs for data analysis, image processing, big-data enrichment and classification, and related production workloads; compressed the vizly.ai delivery timeline from 9 months to 3 months.],
+      [Built and advised on agent-powered SaaS products including vizly.ai v2, LookingGlass Lifestyle v2 (web and iOS applications), and Data Reaktor, using AI LLMs for data analysis, image processing, big-data enrichment and classification, and related production workloads.],
     ),
   )
 
