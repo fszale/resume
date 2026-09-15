@@ -7,11 +7,11 @@
 
 = Filip Szalewicz
 
-#text(weight: "bold")[Principal Engineer / Fractional CTO | Agentic AI, Digital Twins, Multi-Agent Systems]
+#text(weight: "bold")[Principal Engineer / Head of Engineering | Agentic AI, Digital Twins, Multi-Agent Systems]
 #text(size: 8.8pt, fill: rgb("#475569"))[Macomb, MI | Open to Remote Work | linkedin.com/in/fszalewicz | fszale\@gmail.com | github.com/fszale | solidcage.com]
 
 == Summary
-Principal engineer and Fractional CTO with 20+ years of experience building SaaS platforms, data systems, AI products, and cloud infrastructure. Current focus is agentic-first transformation: designing digital twins, multi-agent systems, and Agentic OS patterns that help organizations adopt AI directly inside active delivery workflows. Partner with executive leadership, technical leaders, and engineering teams to train AI best practices, implement governance and human-in-the-loop controls, and accelerate measurable outcomes across product and operations. Recent work includes organizational transformation for a 150-person technology company; agent-powered SaaS products such as vizly.ai v2, LookingGlass Lifestyle v2 (web and iOS), and Data Reaktor that use AI LLMs for data analysis, image processing, enrichment, and classification; and acting as an agent of change driving AI-first enablement and adoption across client organizations.
+Principal engineer and Head of Engineering with 20+ years of experience building SaaS platforms, data systems, AI products, and cloud infrastructure. Hands-on technical contributor and people leader who drives impact across the enterprise: designing digital twins, multi-agent systems, and Agentic OS patterns that help organizations adopt AI directly inside active delivery workflows. Partner with executive leadership, technical leaders, and engineering teams to train AI best practices, implement governance and human-in-the-loop controls, and accelerate measurable outcomes across product and operations. Recent work includes organizational transformation for a 150-person technology company; agent-powered SaaS products such as vizly.ai v2, LookingGlass Lifestyle v2 (web and iOS), and Data Reaktor that use AI LLMs for data analysis, image processing, enrichment, and classification; and acting as an agent of change driving AI-first enablement and adoption across client organizations.
 
 == Core Competencies
 #list(
@@ -22,15 +22,16 @@ Principal engineer and Fractional CTO with 20+ years of experience building SaaS
     [AI Governance & Evaluation - approval flows, auditability, guardrails, feedback loops, measurable outcomes],
     [Cloud Runtime Engineering - Python, FastAPI, Node.js, Next.js, Supabase, Docker, Kubernetes, Cloud Run, AWS, GCP, Azure],
     [Data & ML Platforms - ETL/ELT, Airflow, Spark, BigQuery, SageMaker, data lakes, warehouses, reporting, analytics],
-    [Leadership - executive partnership, architecture, team leadership, mentoring, CI/CD, delivery execution],
+    [Leadership - hands-on engineering, people management, mentoring, executive partnership, enterprise delivery impact],
 )
 
 == Professional Experience
 #text(weight: "bold")[Solid Cage Inc]
 #text(size: 8.8pt, fill: rgb("#475569"))[Macomb, MI]
-#text(style: "italic")[Principal Consultant, Agentic AI & Fractional CTO | 2024 - Present]
+#text(style: "italic")[Principal Engineer / Head of Engineering, Agentic AI | 2024 - Present]
 #list(
     [Lead agentic-first transformation programs for multiple clients, including a 150-person technology company, partnering with executive leadership, technical leaders, and engineering staff to accelerate AI adoption across the organization.],
+    [Contribute as a principal engineer while leading people and delivery, shipping production systems and coaching teams so AI lands inside live workstreams rather than side projects.],
     [Train leaders and delivery teams on practical AI best practices, workflow redesign, and operating models that embed AI directly into projects already in flight instead of isolated experiments.],
     [Drive development and adoption of digital twins in preparation for agent factory deployment, defining roles, context, guardrails, and governance patterns for production use.],
     [Architect Agentic OS patterns for end-to-end ecommerce workflow automation using human-in-the-loop approvals, guardrails, structured context, and self-improvement loops.],
