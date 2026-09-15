@@ -11,14 +11,14 @@
 #text(size: 8.8pt, fill: rgb("#475569"))[Macomb, MI | Open to Remote Work | linkedin.com/in/fszalewicz | fszale\@gmail.com | github.com/fszale | solidcage.com]
 
 == Summary
-Principal engineer and Fractional CTO with 20+ years of experience building SaaS platforms, data systems, AI products, and cloud infrastructure. Current focus is agentic-first transformation: designing digital twins, multi-agent systems, and Agentic OS patterns that help organizations adopt AI directly inside active delivery workflows. Partner with executive leadership, technical leaders, and engineering teams to train AI best practices, implement governance and human-in-the-loop controls, and accelerate measurable outcomes across product and operations. Recent work includes organizational transformation for a 150-person technology company, agent-powered SaaS for data analysis and lead intelligence, and delivery acceleration such as compressing the timeline for vizly.ai from 9 months to 3 months.
+Principal engineer and Fractional CTO with 20+ years of experience building SaaS platforms, data systems, AI products, and cloud infrastructure. Current focus is agentic-first transformation: designing digital twins, multi-agent systems, and Agentic OS patterns that help organizations adopt AI directly inside active delivery workflows. Partner with executive leadership, technical leaders, and engineering teams to train AI best practices, implement governance and human-in-the-loop controls, and accelerate measurable outcomes across product and operations. Recent work includes organizational transformation for a 150-person technology company; agent-powered SaaS products such as vizly.ai v2, LookingGlass Lifestyle v2 (web and iOS), and Data Reaktor that use AI LLMs for data analysis, image processing, enrichment, and classification; and delivery acceleration such as compressing the vizly.ai timeline from 9 months to 3 months.
 
 == Core Competencies
 #list(
     [Agentic AI Strategy & Transformation - AI adoption strategy, operating models, organizational change, delivery acceleration],
     [Digital Twins & Multi-Agent Systems - twin design, agent factories, agent orchestration, context design, workflow decomposition],
     [Agentic OS & Workflow Automation - ecommerce and business workflow automation, human-in-the-loop approvals, guardrails, self-improvement loops],
-    [Agent-Powered SaaS & Data Products - AI-assisted analytics, exploration, lead intelligence, signal enrichment],
+    [Agent-Powered SaaS & Data Products - AI-assisted analytics, image processing, lead intelligence, big-data enrichment and classification],
     [AI Governance & Evaluation - approval flows, auditability, guardrails, feedback loops, measurable outcomes],
     [Cloud Runtime Engineering - Python, FastAPI, Node.js, Next.js, Supabase, Docker, Kubernetes, Cloud Run, AWS, GCP, Azure],
 )
